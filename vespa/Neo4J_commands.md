@@ -42,8 +42,7 @@ RETURN hornet.latinname, type(r),prey.latinname, prey.kingdom, r.citation, r.doi
 `MATCH (p:species)-[r:hasHost|parasiteOf|parasitoidOf]->(nativehost:species {alien:false})`
 `WHERE EXISTS {`
   `(p:species)-[:hasHost|parasiteOf|parasitoidOf]->(host:species {latinname: 'Quercus robur'})`
-`}`
-
+`}
 RETURN p, r, nativehost`
 
 ### Section A4b - Impacts: plant targets
