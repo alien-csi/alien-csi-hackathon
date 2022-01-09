@@ -17,7 +17,7 @@ CALL apoc.create.relationship(node0, row.Label, {doi:row.doi,citation:row.citati
 RETURN *`
 
 ## Adding a constraint also means there is an index created
-`CREATE CONSTRAINT ON (n:species) ASSERT (n.id) IS UNIQUE
+`CREATE CONSTRAINT ON (n:species) ASSERT (n.id) IS UNIQUE`
 
 `MATCH (wasp:species {latinname: 'Sceliphron caementarium'})
 RETURN wasp`
