@@ -16,7 +16,7 @@ WITH node0, node1, row
 CALL apoc.create.relationship(node0, row.Label, {doi:row.doi,citation:row.citation}, node1) YIELD rel
 RETURN *`
 
-##Adding a constraint also means there is an index created
+## Adding a constraint also means there is an index created
 `CREATE CONSTRAINT ON (n:species) ASSERT (n.id) IS UNIQUE
 
 `MATCH (wasp:species {latinname: 'Sceliphron caementarium'})
@@ -38,15 +38,18 @@ RETURN hornet.latinname, type(r),prey.latinname, prey.kingdom, r.citation, r.doi
 ### a15. The Organism has a(n) (...) effect on native species, through interbreeding:
 
 ### a16. The Organism has a (...) effect on native species, by hosting pathogens or parasites that are harmful to them.
-`MATCH (p:species)-[r:hasHost|parasiteOf|parasitoidOf]->(nativehost:species {alien:false})
-WHERE EXISTS {
-  (p:species)-[:hasHost|parasiteOf|parasitoidOf]->(host:species {latinname: 'Quercus robur'})
-}
+
+`MATCH (p:species)-[r:hasHost|parasiteOf|parasitoidOf]->(nativehost:species {alien:false})`
+`WHERE EXISTS {`
+  `(p:species)-[:hasHost|parasiteOf|parasitoidOf]->(host:species {latinname: 'Quercus robur'})`
+`}`
+
 RETURN p, r, nativehost`
 
 ## Section A4b - Impacts: plant targets
 
 ### a19. The Organism has a(n) (...) effect on plant targets, through herbivory or parasitism.
+
 `MATCH (hornet:species {latinname: 'Vespa velutina', kingdom: 'Plantae'})-[:eats|hasHost|parasiteOf]->(prey:species {alien:false})
 RETURN prey.latinname, prey.kingdom`
 
