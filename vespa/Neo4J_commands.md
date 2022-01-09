@@ -28,16 +28,16 @@ RETURN wasp`
 
 ###  Section A4a - Impacts: environmental targets
 
-### a13 The Organism has a(n) ... effect on native species, through predation, parasitism or herbivory:
+#### a13 The Organism has a(n) ... effect on native species, through predation, parasitism or herbivory:
 `MATCH (hornet:species {latinname: 'Vespa velutina'})-[r:eats|hasHost|parasiteOf|parasitoidOf|preysOn]->(prey:species {alien:false})
 RETURN hornet.latinname, type(r),prey.latinname, prey.kingdom, r.citation, r.doi`
 
-### a14. The Organism has a (...) effect on native species, through competition:
+#### a14. The Organism has a (...) effect on native species, through competition:
 
 
-### a15. The Organism has a(n) (...) effect on native species, through interbreeding:
+#### a15. The Organism has a(n) (...) effect on native species, through interbreeding:
 
-### a16. The Organism has a (...) effect on native species, by hosting pathogens or parasites that are harmful to them.
+#### a16. The Organism has a (...) effect on native species, by hosting pathogens or parasites that are harmful to them.
 
 `MATCH (p:species)-[r:hasHost|parasiteOf|parasitoidOf]->(nativehost:species {alien:false})`
 `WHERE EXISTS {`
@@ -46,38 +46,38 @@ RETURN hornet.latinname, type(r),prey.latinname, prey.kingdom, r.citation, r.doi
 
 RETURN p, r, nativehost`
 
-## Section A4b - Impacts: plant targets
+### Section A4b - Impacts: plant targets
 
-### a19. The Organism has a(n) (...) effect on plant targets, through herbivory or parasitism.
+#### a19. The Organism has a(n) (...) effect on plant targets, through herbivory or parasitism.
 
 `MATCH (hornet:species {latinname: 'Vespa velutina', kingdom: 'Plantae'})-[:eats|hasHost|parasiteOf]->(prey:species {alien:false})
 RETURN prey.latinname, prey.kingdom`
 
-### a20. The Organism has a(n) (...) effect on plant targets, through competition.
+#### a20. The Organism has a(n) (...) effect on plant targets, through competition.
 
-### a21. The Organism has a(n) (...) effect on plant targets, by interbreeding with related organisms or with the target itself.
+#### a21. The Organism has a(n) (...) effect on plant targets, by interbreeding with related organisms or with the target itself.
 
-### a22. The Organism has a (...) effect on plant targets, by affecting the cultivation system’s integrity.
+#### a22. The Organism has a (...) effect on plant targets, by affecting the cultivation system’s integrity.
 
-### a23. The Organism has a(n) (...) effect on plant targets, by hosting pathogens or parasites that are harmful to them:
+#### a23. The Organism has a(n) (...) effect on plant targets, by hosting pathogens or parasites that are harmful to them:
 
-## Section A4c - Impacts: animal targets
+### Section A4c - Impacts: animal targets
 
-### a24. The Organism has a(n) (...) effect on individual animal health or animal production, through predation or parasitism.
+#### a24. The Organism has a(n) (...) effect on individual animal health or animal production, through predation or parasitism.
 
 
-### a25. The Organism has a (...) effect on individual animal health or animal production, by having properties that are hazardous upon contact.
+#### a25. The Organism has a (...) effect on individual animal health or animal production, by having properties that are hazardous upon contact.
 
-### a26. The Organism has a(n) (...) effect on individual animal health or animal production, by hosting pathogens or parasites that are harmful to them.
+#### a26. The Organism has a(n) (...) effect on individual animal health or animal production, by hosting pathogens or parasites that are harmful to them.
 
-## Section A4d - Impacts: human targets
+### Section A4d - Impacts: human targets
 
-### a27. The Organism has a(n) (...) effect on human health, through parasitism.
+#### a27. The Organism has a(n) (...) effect on human health, through parasitism.
 
-### a28. The Organism has a (...) effect on human health, by having properties that are hazardous upon contact.
+#### a28. The Organism has a (...) effect on human health, by having properties that are hazardous upon contact.
 
-### a29. The Organism has a(n) (...) effect on the health of human targets, by hosting pathogens or parasites that are harmful to them.
+#### a29. The Organism has a(n) (...) effect on the health of human targets, by hosting pathogens or parasites that are harmful to them.
 
-## Section A5a – Ecosystem services
+### Section A5a – Ecosystem services
 
-### a31. The Organism has a (…) effect on provisioning services.
+#### a31. The Organism has a (…) effect on provisioning services.
