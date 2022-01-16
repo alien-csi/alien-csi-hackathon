@@ -26,9 +26,9 @@ RETURN wasp`
 
 ## Add a cultivated property for crop plants and domestic farm animals 
 
-'LOAD CSV FROM "file:///foodorganisms.txt" AS csvLine
+`LOAD CSV FROM "file:///foodorganisms.txt" AS csvLine
 MERGE (n:species {id:csvLine[0]})
-ON MATCH SET n.cultivated = True'
+ON MATCH SET n.cultivated = True`
 
 ## Harmonia+ questions
 
