@@ -57,13 +57,23 @@ RETURN prey.latinname, prey.kingdom`
 #### a21. The Organism has a(n) (...) effect on plant targets, by interbreeding with related organisms or with the target itself.
 
 #### a22. The Organism has a (...) effect on plant targets, by affecting the cultivation system’s integrity.
+'MATCH (source:species {latinname: 'Sceliphron caementarium'})-[r]->(target:species {kingdom:"Plantae"})
+WHERE EXISTS(target.cultivated)
+RETURN source.latinname,type(r),target.latinname, r.citation, r.doi, r.reference, r.referenceURL'
 
 #### a23. The Organism has a(n) (...) effect on plant targets, by hosting pathogens or parasites that are harmful to them:
+'MATCH (p:species)-[r:hasHost|parasiteOf]->(nativehost:species {alien:false})
+WHERE EXISTS {
+  (p:species)-[:eats|hasHost|parasiteOf]->(host:species {latinname: 'Cirsium arvense'})
+}
+RETURN p, r, nativehost'
 
 ### Section A4c - Impacts: animal targets
 
 #### a24. The Organism has a(n) (...) effect on individual animal health or animal production, through predation or parasitism.
-
+'MATCH (source:species {latinname: 'Sceliphron caementarium'})-[r:eats|hasHost|parasiteOf|parasitoidOf]->(target:species {kingdom:"Animalia"})
+WHERE EXISTS(target.cultivated)
+RETURN source.latinname,type(r),target.latinname, r.citation, r.doi, r.reference, r.referenceURL'
 
 #### a25. The Organism has a (...) effect on individual animal health or animal production, by having properties that are hazardous upon contact.
 
@@ -72,6 +82,8 @@ RETURN prey.latinname, prey.kingdom`
 ### Section A4d - Impacts: human targets
 
 #### a27. The Organism has a(n) (...) effect on human health, through parasitism.
+'MATCH (s:species {latinname:'Vespa velutina'})-[r:]->(prey:species {latinname:'Homo sapiens'})
+RETURN s.latinname, type(r),prey.latinname, r.citation, r.doi, r.reference, r.referenceDOI, r.referenceURL'
 
 #### a28. The Organism has a (...) effect on human health, by having properties that are hazardous upon contact.
 
