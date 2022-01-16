@@ -24,6 +24,8 @@ RETURN wasp`
 
 `MATCH (ee:Node) WHERE ee.id = 'Sceliphron caementarium' RETURN ee;`
 
+## Add a cultivated property for crop plants and domestic farm animals 
+
 'LOAD CSV FROM "file:///foodorganisms.txt" AS csvLine
 MERGE (n:species {id:csvLine[0]})
 ON MATCH SET n.cultivated = True'
