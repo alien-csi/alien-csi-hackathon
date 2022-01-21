@@ -5,7 +5,7 @@ The [Alien-CSI](https://alien-csi.eu/) Hackathon will take place in March 2022. 
 # Organizational details
 
 
-## How to get to
+## How to get to Constanța, Romania
 
 ## Accommodation
 
