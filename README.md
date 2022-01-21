@@ -11,7 +11,7 @@ The [Alien-CSI](https://alien-csi.eu/) Hackathon will take place in March 2022. 
 
 # Projects
 1. [Vespa velutina impacts](Project/Vespa%20velutina%20impacts/readme.md)
-2. [Sceliphron interactions](Project/Sceliphron%20interactions/readme.md)
+2. 
 
 ## Topic Overview
 
