@@ -32,6 +32,8 @@ Time zone: CEST
 
 For the conditions for travelling to Romania see this link (in Romanian, unfortunately) https://fiipregatit.ro/sectiune_ghid/conditii-intrare-in-romania/ and this one in English https://reopen.europa.eu/en/map/ROU/7011.
 
+In English https://romaniatourism.com/travel-advisory.html
+
 To my understanding, the new conditions for travelling (starting today, 1st of February) are as follows: when coming to Romania (from any country) you DO NOT have to quarantine if you are vaccinated, or you've had COVID in the last 6 months or you have a negative RT-PCR test (72 h before) > you have a mandatory green certificate (or compatible official documents);
 
 You **do need to fill in a passenger locator form** (https://plf.gov.ro/login) and to download the digital COVID certificate (for the QR code) https://certificat-covid.gov.ro/login.
