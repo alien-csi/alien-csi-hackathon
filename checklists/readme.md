@@ -16,6 +16,6 @@
 
 ## References
 
-1. Preda C, Adriaens T, Strubbe D, Desmet P, Reyserhove L (2020). Checklist of alien birds of Belgium. Version 1.3. Research Institute for Nature and Forest (INBO). Checklist dataset https://doi.org/10.15468/wr3gis accessed via GBIF.org on 2022-02-06.
-2. Groom, Q., Desmet, P., Reyserhove, L., Adriaens, T., Oldoni, D., Vanderhoeven, S., ... & Simpson, A. (2019). Improving Darwin Core for research and management of alien species. https://doi.org/10.3897/biss.3.38084
+1. Groom, Q., Desmet, P., Reyserhove, L., Adriaens, T., Oldoni, D., Vanderhoeven, S., ... & Simpson, A. (2019). Improving Darwin Core for research and management of alien species. https://doi.org/10.3897/biss.3.38084
+2. Preda C, Adriaens T, Strubbe D, Desmet P, Reyserhove L (2020). Checklist of alien birds of Belgium. Version 1.3. Research Institute for Nature and Forest (INBO). Checklist dataset https://doi.org/10.15468/wr3gis accessed via GBIF.org on 2022-02-06.
 3. Reyserhove, L., Desmet, P., Oldoni, D., Adriaens, T., Strubbe, D., Davis, A. J., ... & Groom, Q. (2020). A checklist recipe: making species data open and FAIR. Database, 2020. baaa084, https://doi.org/10.1093/database/baaa084
