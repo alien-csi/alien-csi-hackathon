@@ -15,7 +15,7 @@ The biotic interactions of invasive species are the principal way they manifest 
 2. Create visualizations of the flower visitation network of *Vespa velutina*.
 3. Analyze the interaction networks of *Vespa velutina* to identify vulnerable prey species, competitors 
 4. Find and publish new interaction data on *Vespa* interactions on GloBI.
-5. Use interaction data from GloBI to conduct a invasicve species risk assessment for *Vespa velutina*.
+5. Use interaction data from GloBI to conduct a invasive species risk assessment for *Vespa velutina*.
 
 ## Outputs
 
