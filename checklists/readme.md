@@ -9,7 +9,7 @@
 
 ## Methodology
 
-# For the checklist of the alien plants of Ukraine, we will:
+### For the checklist of the alien plants of Ukraine, we will:
 1. parse regional floras and other literature sources in Ukrainian using R (where possible);
 2. obtain occurrence data from GBIF, iNaturalist, and UkrBIN (https://ukrbin.com/) and aggregate it to the regional level;
 3. standardize taxonomy and combine all data;
