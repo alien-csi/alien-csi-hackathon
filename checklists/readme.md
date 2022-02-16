@@ -1,18 +1,25 @@
 # Checklists
 
 ## Team members
-* 
+* Marina Golivets
+* Dariia Shyriaieva
 
 ## Concept
 
 
 ## Methodology
 
-* A checklist of the alien plants of Ukraine
+# For the checklist of the alien plants of Ukraine, we will:
+1. parse regional floras and other literature sources in Ukrainian using R (where possible);
+2. obtain occurrence data from GBIF, iNaturalist, and UkrBIN (https://ukrbin.com/) and aggregate it to the regional level;
+3. standardize taxonomy and combine all data;
+4. prepare data to be uploaded to GBIF.
+
 * A checklist of Alien birds of Turkey
 * Updating checklist of alien birds of Belgium to conform to the latest Darwin Core standards
 
 ## Outputs
+* A checklist of alien plants of Ukraine formated to the Darwin Core standard. The checklist will provide species lists for the different regions of Ukraine along with the information on species status, pathways, habitats, etc.
 
 ## References
 
