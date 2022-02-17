@@ -2,11 +2,9 @@
 
 ## Interested hackers
 
-## Partners
-* partner 1
+@AugustT
 
 ## Concept
-Something
 
 ## Examples 
 
