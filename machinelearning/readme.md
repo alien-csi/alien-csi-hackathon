@@ -1,4 +1,24 @@
+# Machine learning to detect barnacles 
 
-not blank anymore
+## Interested hackers
 
-![alt text here](https://i.kym-cdn.com/photos/images/newsfeed/001/085/121/4e8.gif)
+## Partners
+* partner 1
+
+## Concept
+Something
+
+## Examples 
+
+## Methodology
+1. 
+2. 
+3. 
+4. 
+5. 
+
+## Data availability
+
+## Outputs
+
+## References
