@@ -12,6 +12,10 @@
 
 We will develop a computer vision tool that will be able to identify images with barnacles in, and report were in the image, and how many there are.
 
+*Austrominius modestus* (barnacle)
+*Crepipatella dilatata* (gastropod mollusc)
+*Crepidula fornicata* (gastropod mollusc)
+
 ## Methodology/Plan
 
 1. Build a training dataset of images with barnacles in 
