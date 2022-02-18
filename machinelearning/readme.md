@@ -5,7 +5,7 @@
 ## Interested hackers
 
 @AugustT
-
+@LilitaTeixeira
 ...
 
 ## Concept
