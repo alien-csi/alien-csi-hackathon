@@ -10,7 +10,7 @@
 
 ## Concept
 
-We will develop a computer vision tool that will be able to identify images with barnacles in, and report were in the image, and how many there are.
+We will develop a computer vision tool that will be able to identify images with sessile benthic invertebrates in, and report were in the image, and how many there are, and where feasible their basibiont associations.
 
 * *Austrominius modestus* (barnacle)
 * *Crepipatella dilatata* (gastropod mollusc)
@@ -18,8 +18,8 @@ We will develop a computer vision tool that will be able to identify images with
 
 ## Methodology/Plan
 
-1. Build a training dataset of images with barnacles in 
-2. Learn how to build an object dection algorithm in python and/or R
+1. Build a training dataset of images with target epibiont species in (e.g. barnacles) | and training datasets with target basibionts (?)
+2. Learn how to build an object detection algorithm in python and/or R
 3. Train detector on training data
 4. Test detector on a hold-out validation dataset
 5. Test the detector on a real-world problem
