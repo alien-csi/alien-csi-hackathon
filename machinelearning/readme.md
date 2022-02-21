@@ -10,7 +10,7 @@
 
 ## Concept
 
-We will develop a computer vision tool that will be able to identify images with sessile benthic invertebrates in, and report were in the image, and how many there are, and where feasible their basibiont associations.
+We will develop a computer vision tool that will be able to identify images with sessile benthic invertebrates (beasties on the seabed that don't move) in, and report were in the image, and how many there are, and where feasible their basibiont associations (the beasties the aformentioned beasties are sitting on).
 
 * *Austrominius modestus* (barnacle)
 * *Crepipatella dilatata* (gastropod mollusc)
