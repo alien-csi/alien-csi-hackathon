@@ -1,0 +1,422 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="fc18b0b1-8777-4c8a-8cb8-f9f15870d6a9/v1.7" system="http://gbif.org" scope="system"
+         xml:lang="eng">
+
+<dataset>
+  <alternateIdentifier>fc18b0b1-8777-4c8a-8cb8-f9f15870d6a9</alternateIdentifier>
+  <alternateIdentifier>https://ipt.inbo.be/resource?r=rl-flanders-validated-checklist</alternateIdentifier>
+  <title xml:lang="eng">Validated red lists of Flanders, Belgium</title>
+      <creator>
+    <individualName>
+        <givenName>Dirk</givenName>
+      <surName>Maes</surName>
+    </individualName>
+    <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>dirk.maes@inbo.be</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-7947-3788</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Dimitri</givenName>
+      <surName>Brosens</surName>
+    </individualName>
+    <organizationName>Research Institute for Nature and Forest (INBO) / Belgian Biodiversity Platform</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>dimitri.brosens@inbo.be</electronicMailAddress>
+    <onlineUrl>http://www.biodiversity.be</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0846-9116</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Filiep</givenName>
+      <surName>T’jollyn</surName>
+    </individualName>
+    <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>filiep.tjollyn@inbo.be</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-6552-3908</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Peter</givenName>
+      <surName>Desmet</surName>
+    </individualName>
+    <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>peter.desmet@inbo.be</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-8442-8025</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Frederic</givenName>
+      <surName>Piesschaert</surName>
+    </individualName>
+    <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>frederic.piesschaert@inbo.be</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-5843-646X</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Stijn</givenName>
+      <surName>Van Hoey</surName>
+    </individualName>
+    <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>stijn.vanhoey@inbo.be</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-6413-3185</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Tim</givenName>
+      <surName>Adriaens</surName>
+    </individualName>
+    <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>tim.adriaens@inbo.be</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-7268-4200</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Wouter</givenName>
+      <surName>Dekoninck</surName>
+    </individualName>
+    <organizationName>Royal Belgian Institute of Natural Sciences (RBINS)</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>wdekoninck@naturalsciences.be</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Koen</givenName>
+      <surName>Devos</surName>
+    </individualName>
+    <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>koen.devos@inbo.be</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-7265-6349</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Koen</givenName>
+      <surName>Lock</surName>
+    </individualName>
+    <organizationName>Ghent University</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>koen_lock@hotmail.com</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Thierry</givenName>
+      <surName>Onkelinx</surName>
+    </individualName>
+    <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>thierry.onkelinx@inbo.be</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-8804-4216</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Jo</givenName>
+      <surName>Packet</surName>
+    </individualName>
+    <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>jo.packet@inbo.be</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5590-323X</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Jeroen</givenName>
+      <surName>Speybroeck</surName>
+    </individualName>
+    <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>jeroen.speybroeck@inbo.be</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-7241-7804</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Arno</givenName>
+      <surName>Thomaes</surName>
+    </individualName>
+    <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>arno.thomaes@inbo.be</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5723-5976</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Koen</givenName>
+      <surName>Van Den Berge</surName>
+    </individualName>
+    <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>koen.vandenberge@inbo.be</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-2214-0947</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Wouter</givenName>
+      <surName>Van Landuyt</surName>
+    </individualName>
+    <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>wouter.vanlanduyt@inbo.be</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-1915-4486</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Hugo</givenName>
+      <surName>Verreycken</surName>
+    </individualName>
+    <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>hugo.verreycken@inbo.be</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-2060-7005</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Dimitri</givenName>
+      <surName>Brosens</surName>
+    </individualName>
+    <organizationName>Research Institute for Nature and Forest (INBO) / Belgian Biodiversity Platform</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>dimitri.brosens@inbo.be</electronicMailAddress>
+    <onlineUrl>http://www.biodiversity.be</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-0846-9116</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Peter</givenName>
+      <surName>Desmet</surName>
+    </individualName>
+    <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>peter.desmet@inbo.be</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-8442-8025</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Dirk</givenName>
+      <surName>Maes</surName>
+    </individualName>
+    <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>dirk.maes@inbo.be</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-7947-3788</userId>
+      </metadataProvider>
+  <pubDate>
+      2020-06-23
+  </pubDate>
+  <language>eng</language>
+  <abstract>
+    <para>The Validated red lists of Flanders, Belgium is a species checklist dataset published by the Research Institute for Nature and Forest (INBO) and described (v1.3) in Maes et al. 2019b (https://doi.org/10.3897/BDJ.7.e34089). It includes 3.063 taxa from 19 Flemish red lists that are considered validated, i.e. which used quantitative criteria and a representative sample of occurrences across all ecological regions in Flanders (Maes et al. 2015) for red list assessment. Here this compilation is published as a standardized Darwin Core Archive and includes for each taxon: the scientific name, higher classification (provided by the GBIF Backbone Taxonomy, https://doi.org/10.15468/39omei), stable taxon identifier and Dutch vernacular name (in the taxon core), the red list category in Flanders as published, its IUCN equivalent and year of assessment (respectively in occurrenceRemarks, threatStatus and eventDate in the distribution extension), and the life-history traits biome, biotope, cuddliness, lifespan, mobility, nutrient level, and spine (in the description extension). Issues with the dataset can be reported at: https://github.com/inbo/rl-flanders-checklist</para>
+    <para>We have released this dataset to the public domain under a Creative Commons Zero waiver. We would appreciate it if you follow the INBO norms for data use (https://www.inbo.be/en/norms-data-use) when using the data. If you have any questions regarding this dataset, don&apos;t hesitate to contact us via the contact information provided in the metadata or via opendata@inbo.be.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Inventorythematic</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>red list</keyword>
+            <keyword>Flanders</keyword>
+            <keyword>life-history traits</keyword>
+            <keyword>IUCN</keyword>
+            <keyword>threatened species</keyword>
+            <keyword>conservation</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://inbo.github.io/rl-flanders-checklist/</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Flanders, Belgium.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>2.53</westBoundingCoordinate>
+          <eastBoundingCoordinate>5.94</eastBoundingCoordinate>
+          <northBoundingCoordinate>51.51</northBoundingCoordinate>
+          <southBoundingCoordinate>50.67</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1996</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2017</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>This checklist covers the taxa from the 19 validated red lists for Flanders, Belgium.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Lepidoptera</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Orthoptera</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Aves</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Odonata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Tracheophyta</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Coleoptera</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Amphibia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Reptilia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Hemiptera</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Pisces</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Mammalia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Anthocerotophyta</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Marchantiophyta</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Bryophyta</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Dirk</givenName>
+      <surName>Maes</surName>
+    </individualName>
+    <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+    <address>
+        <country>BE</country>
+    </address>
+    <electronicMailAddress>dirk.maes@inbo.be</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-7947-3788</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>See Maes et al. (2019b)</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>See Maes et al. (2019b)</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>See Maes et al. (2019b)</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>See Maes et al. (2019b)</para>
+        </description>
+      </qualityControl>
+  </methods>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2019-02-14T03:16:03.110+01:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15468/8tk3tk">Maes D, Brosens D, T’jollyn F, Desmet P, Piesschaert F, Van Hoey S, Adriaens T, Dekoninck W, Devos K, Lock K, Onkelinx T, Packet J, Speybroeck J, Thomaes A, Van Den Berge K, Van Landuyt W, Verreycken H (2020): Validated red lists of Flanders, Belgium. v1.7. Research Institute for Nature and Forest (INBO). Dataset/Checklist. https://doi.org/10.15468/8tk3tk</citation>
+          <bibliography>
+                <citation>Maes D, Brosens D, T’jollyn F, Desmet P, Piesschaert F, Van Hoey S, Adriaens T, Dekoninck W, Devos K, Lock K, Onkelinx T, Packet J, Speybroeck J, Thomaes A, Van Den Berge K, Van Landuyt W, Verreycken H (2019b) A database of threat statuses and life-history traits of Red List species in Flanders (northern Belgium). Biodiversity Data Journal 7: e34089. https://doi.org/10.3897/BDJ.7.e34089</citation>
+                <citation>Maes D, Isaac NB, Harrower C, Collen B, van Strien A, Roy DB (2015) The use of opportunistic data for IUCN Red List assessments. Biological Journal of the Linnean Society 115 (3): 690‑706. https://doi.org/10.1111/bij.12530</citation>
+          </bibliography>
+          <resourceLogoUrl>https://ipt.inbo.be/logo.do?r=rl-flanders-validated-checklist</resourceLogoUrl>
+          <dc:replaces>fc18b0b1-8777-4c8a-8cb8-f9f15870d6a9/v1.7.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>
