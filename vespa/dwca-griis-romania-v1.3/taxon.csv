@@ -1,0 +1,616 @@
+id;taxonID;scientificName;acceptedNameUsage;kingdom;phylum;class;order;family;taxonRank;taxonomicStatus
+86500;86500;Acanthoscelides obtectus (Say, 1831);;Animalia;Arthropoda;Insecta;Coleoptera;Chrysomelidae;SPECIES;ACCEPTED
+86501;86501;Acanthoscelides pallidipennis (Motschulsky, 1874);Dactylispa pallidipennis (Motschulsky, 1861);Animalia;Arthropoda;Insecta;Coleoptera;Chrysomelidae;SPECIES;SYNONYM
+86502;86502;Acer negundo L.;;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Sapindaceae;SPECIES;ACCEPTED
+86503;86503;Acer pseudoplatanus L.;;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Sapindaceae;SPECIES;ACCEPTED
+86504;86504;Achillea roseoalba Ehrend.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86505;86505;Acorus calamus L.;;Plantae;Tracheophyta;Liliopsida;Acorales;Acoraceae;SPECIES;ACCEPTED
+86506;86506;Adelges cooleyi (Gillette, 1907);;Animalia;Arthropoda;Insecta;Hemiptera;Adelgidae;SPECIES;ACCEPTED
+86507;86507;Adelges nordmannianae (Eckstein, 1890);;Animalia;Arthropoda;Insecta;Hemiptera;Adelgidae;SPECIES;ACCEPTED
+86508;86508;Adonis annua L.;;Plantae;Tracheophyta;Magnoliopsida;Ranunculales;Ranunculaceae;SPECIES;ACCEPTED
+86509;86509;Aedes albopictus Skuse, 1894;;Animalia;Arthropoda;Insecta;Diptera;Culicidae;SPECIES;ACCEPTED
+86510;86510;Aesculus hippocastanum L.;;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Sapindaceae;SPECIES;ACCEPTED
+86511;86511;Agetus flaccus (Giesbrecht, 1891);;Animalia;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;SPECIES;ACCEPTED
+86512;86512;Agetus typicus KrÃ¸yer, 1849;;Animalia;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;SPECIES;ACCEPTED
+86513;86513;Agropogon littoralis (Smith) C.E.Hubbard;Agropogon lutosus (Poir.) P.Fourn.;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;SYNONYM
+86514;86514;Agrostemma githago L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Caryophyllaceae;SPECIES;ACCEPTED
+86515;86515;Ailanthus altissima Swingle;;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Simaroubaceae;SPECIES;ACCEPTED
+86516;86516;Alcea rosea L.;;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;SPECIES;ACCEPTED
+86517;86517;Alkekengi officinarum Moench;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;SPECIES;ACCEPTED
+86518;86518;Alopochen aegyptiaca (Linnaeus, 1766);;Animalia;Chordata;Aves;Anseriformes;Anatidae;SPECIES;ACCEPTED
+86519;86519;Amaranthus albus L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86520;86520;Amaranthus blitoides S.Watson;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86521;86521;Amaranthus blitum L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86522;86522;Amaranthus blitum subsp. blitum;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SUBSPECIES;ACCEPTED
+86523;86523;Amaranthus budensis Priszter;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86524;86524;Amaranthus caudatus L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86525;86525;Amaranthus crispus (Lesp. & ThÃ©v.) N.Terracc.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86526;86526;Amaranthus cruentus L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86527;86527;Amaranthus deflexus L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86528;86528;Amaranthus emarginatus Salzm. ex Uline & W.L.Bray;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86529;86529;Amaranthus graecizans L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86530;86530;Amaranthus hybridus L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86531;86531;Amaranthus hypochondriacus L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86532;86532;Amaranthus palmeri S.Watson;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86533;86533;Amaranthus powellii S.Watson;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86534;86534;Amaranthus quitensis Kunth;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86535;86535;Amaranthus retroflexus L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86536;86536;Amaranthus spinosus L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86537;86537;Amaranthus tuberculatus (Moq. ex DC.) J.D.Sauer;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86538;86538;Amaranthus viridis L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86539;86539;Ambrosia artemisiifolia L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86540;86540;Ambrosia psilostachya DC.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86541;86541;Ambrosia trifida L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86542;86542;Ameiurus melas (Rafinesque, 1820);;Animalia;Chordata;Actinopterygii;Siluriformes;Ictaluridae;SPECIES;ACCEPTED
+86543;86543;Ameiurus nebulosus (Lesueur, 1819);;Animalia;Chordata;Actinopterygii;Siluriformes;Ictaluridae;SPECIES;ACCEPTED
+86544;86544;Amorpha fruticosa L.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+86545;86545;Amphibalanus amphitrite Darwin, 1854;;Animalia;Arthropoda;Maxillopoda;Sessilia;Balanidae;SPECIES;ACCEPTED
+86546;86546;Anadara kagoshimensis (Tokunaga, 1906);;Animalia;Mollusca;Bivalvia;Arcida;Arcidae;SPECIES;ACCEPTED
+86547;86547;Anemone altaica Fisch. ex C.A.Mey.;;Plantae;Tracheophyta;Magnoliopsida;Ranunculales;Ranunculaceae;SPECIES;ACCEPTED
+86548;86548;Anethum graveolens L.;;Plantae;Tracheophyta;Magnoliopsida;Apiales;Apiaceae;SPECIES;ACCEPTED
+86549;86549;Anser indicus (Latham, 1790);;Animalia;Chordata;Aves;Anseriformes;Anatidae;SPECIES;ACCEPTED
+86550;86550;Antirrhinum majus L.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Plantaginaceae;SPECIES;ACCEPTED
+86551;86551;Aphanomyces astaci Schikora;;Chromista;Oomycota;Peronosporea;Saprolegniales;Leptolegniaceae;SPECIES;ACCEPTED
+86552;86552;Aphytis mytilaspidis (Le Baron, 1870);;Animalia;Arthropoda;Insecta;Hymenoptera;Aphelinidae;SPECIES;ACCEPTED
+86553;86553;Apium graveolens L.;;Plantae;Tracheophyta;Magnoliopsida;Apiales;Apiaceae;SPECIES;ACCEPTED
+86554;86554;Aproceros leucopoda Takeuchi, 1939;;Animalia;Arthropoda;Insecta;Hymenoptera;Argidae;SPECIES;ACCEPTED
+86555;86555;Aquilegia vulgaris L.;;Plantae;Tracheophyta;Magnoliopsida;Ranunculales;Ranunculaceae;SPECIES;ACCEPTED
+86556;86556;Arctium tomentosum Mill.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86557;86557;Arcuatula senhousia (Benson, 1842);;Animalia;Mollusca;Bivalvia;Mytilida;Mytilidae;SPECIES;ACCEPTED
+86558;86558;Argyresthia thuiella (Packard, 1871);;Animalia;Arthropoda;Insecta;Lepidoptera;Argyresthiidae;SPECIES;ACCEPTED
+86559;86559;Arion lusitanicus J.Mabille, 1868;;Animalia;Mollusca;Gastropoda;Stylommatophora;Arionidae;SPECIES;ACCEPTED
+86560;86560;Aristolochia macrophylla Lam.;;Plantae;Tracheophyta;Magnoliopsida;Piperales;Aristolochiaceae;SPECIES;ACCEPTED
+86561;86561;Armoracia rusticana P.Gaertn., B.Mey. & Scherb.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86562;86562;Artemisia abrotanum L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86563;86563;Artemisia annua L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86564;86564;Artemisia argyi H.LÃ©v. & Vaniot;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86565;86565;Artemisia dracunculus L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86566;86566;Artemisia lancea Vaniot;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86567;86567;Artemisia lavandulaefolia Nakai;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86568;86568;Asclepias syriaca L.;;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Apocynaceae;SPECIES;ACCEPTED
+86569;86569;Asperula orientalis Boiss. & Hohen.;;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Rubiaceae;SPECIES;ACCEPTED
+86570;86570;Aster laevis L.;Symphyotrichum laeve (L.) Á.Löve & D.Löve;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;SYNONYM
+86571;86571;Aster lanceolatus Willd.;Symphyotrichum lanceolatum subsp. Lanceolatum;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;SYNONYM
+86572;86572;Aster novae-angliae L.;Symphyotrichum novae-angliae (L.) G.L.Nesom;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;SYNONYM
+86573;86573;Aster novi-belgii L.;Symphyotrichum novi-belgii (L.) G.L.Nesom;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;SYNONYM
+86574;86574;Aster salignus L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86575;86575;Aster versicolor hort. ex Steud.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86576;86576;Atriplex hortensis L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86577;86577;Atriplex micrantha Ledeb.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86578;86578;Azolla filiculoides Lam.;;Plantae;Tracheophyta;Polypodiopsida;Salviniales;Salviniaceae;SPECIES;ACCEPTED
+86579;86579;Balanus improvisus Darwin, 1854;;Animalia;Arthropoda;Maxillopoda;Sessilia;Balanidae;SPECIES;ACCEPTED
+86580;86580;Balanus perforatus BruguiÃ¨re, 1789-1792;;Animalia;Arthropoda;Maxillopoda;Sessilia;Balanidae;SPECIES;ACCEPTED
+86581;86581;Balsamita major Desf.;Tanacetum balsamita L.;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;SYNONYM
+86582;86582;Bassia sieversiana (Pall.) W.A.Weber;Bassia scoparia subsp. Scoparia;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;SYNONYM
+86583;86583;Bellardia trixago All.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Orobanchaceae;SPECIES;ACCEPTED
+86584;86584;Beroe ovata Bruguiere, 1789;;Animalia;Ctenophora;Nuda;Beroida;Beroidae;SPECIES;ACCEPTED
+86585;86585;Bidens bipinnata L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86586;86586;Bidens connata Muhl. ex Willd.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86587;86587;Bidens frondosa L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86588;86588;Bidens vulgata Greene;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86589;86589;Biscutella auriculata L.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86590;86590;Blackfordia virginica Mayer, 1910;;Animalia;Cnidaria;Hydrozoa;Leptothecata;Blackfordiidae;SPECIES;ACCEPTED
+86591;86591;Blitum virgatum L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86592;86592;Borago officinalis L.;;Plantae;Tracheophyta;Magnoliopsida;Boraginales;Boraginaceae;SPECIES;ACCEPTED
+86593;86593;Brachyactis ciliata (Ledeb.) Ledeb.;Symphyotrichum ciliatum (Ledeb.) G.L.Nesom;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;SYNONYM
+86594;86594;Branta canadensis (Linnaeus, 1758);;Animalia;Chordata;Aves;Anseriformes;Anatidae;SPECIES;ACCEPTED
+86595;86595;Brassica juncea (L.) Czern.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86596;86596;Brassica napus L.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86597;86597;Brassica nigra (L.) W.D.J.Koch;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86598;86598;Brassica rapa L.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86599;86599;Bromus madritensis L.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86600;86600;Bromus willdenowii Kunth;Bromus catharticus Vahl;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;SYNONYM
+86601;86601;Broussonetia papyrifera Vent.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;SPECIES;ACCEPTED
+86602;86602;Bruchidius siliquastri Delobel, 2007;;Animalia;Arthropoda;Insecta;Coleoptera;Chrysomelidae;SPECIES;ACCEPTED
+86603;86603;Bruchidius terrenus (Sharp, 1886);;Animalia;Arthropoda;Insecta;Coleoptera;Chrysomelidae;SPECIES;ACCEPTED
+86604;86604;Bruchophagus sophorae Crosby & Crosby, 1929;;Animalia;Arthropoda;Insecta;Hymenoptera;Eurytomidae;SPECIES;ACCEPTED
+86605;86605;Bryonia cretica L.;;Plantae;Tracheophyta;Magnoliopsida;Cucurbitales;Cucurbitaceae;SPECIES;ACCEPTED
+86606;86606;Buddleja davidii Franch.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Scrophulariaceae;SPECIES;ACCEPTED
+86607;86607;Cabomba caroliniana A.Gray;;Plantae;Tracheophyta;Magnoliopsida;Nymphaeales;Cabombaceae;SPECIES;ACCEPTED
+86608;86608;Calendula officinalis L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86609;86609;Calibrachoa parviflora (Jussieu) D'Arcy;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;SPECIES;ACCEPTED
+86610;86610;Callinectes sapidus Rathbun, 1896;;Animalia;Arthropoda;Malacostraca;Decapoda;Potamidae;SPECIES;ACCEPTED
+86611;86611;Callistephus chinensis Nees;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86612;86612;Clausocalanus arcuicornis (Dana, 1849);;Animalia;Arthropoda;Hexanauplia;Calanoida;Paracalanidae;SPECIES;ACCEPTED
+86613;86613;Calocalanus pavo (Dana, 1852);;Animalia;Arthropoda;Hexanauplia;Calanoida;Paracalanidae;SPECIES;ACCEPTED
+86614;86614;Calocalanus pavoninus Farran, 1936;;Animalia;Arthropoda;Hexanauplia;Calanoida;Paracalanidae;SPECIES;ACCEPTED
+86615;86615;Calocalanus plumulosus (Claus, 1863);;Animalia;Arthropoda;Hexanauplia;Calanoida;Paracalanidae;SPECIES;ACCEPTED
+86616;86616;Calocalanus tenuis Farran, 1926;;Animalia;Arthropoda;Hexanauplia;Calanoida;Paracalanidae;SPECIES;ACCEPTED
+86617;86617;Camelina sativa Crantz;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86618;86618;Cameraria ohridella Deschka & Dimic, 1986;;Animalia;Arthropoda;Insecta;Lepidoptera;Gracillariidae;SPECIES;ACCEPTED
+86619;86619;Campsis radicans (L.) Seem.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Bignoniaceae;SPECIES;ACCEPTED
+86620;86620;Cannabis sativa L.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Cannabaceae;SPECIES;ACCEPTED
+86621;86621;Capsella rubella Reut.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86622;86622;Caragana arborescens Lam.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+86623;86623;Carassius auratus (Linnaeus, 1758);;Animalia;Chordata;Actinopterygii;Cypriniformes;Cyprinidae;SPECIES;ACCEPTED
+86624;86624;Carassius gibelio (Bloch, 1782);;Animalia;Chordata;Actinopterygii;Cypriniformes;Cyprinidae;SPECIES;ACCEPTED
+86625;86625;Cardiospermum halicacabum L.;;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Sapindaceae;SPECIES;ACCEPTED
+86626;86626;Carya ovata K.Koch;;Plantae;Tracheophyta;Magnoliopsida;Fagales;Juglandaceae;SPECIES;ACCEPTED
+86627;86627;Castanea sativa Mill.;;Plantae;Tracheophyta;Magnoliopsida;Fagales;Fagaceae;SPECIES;ACCEPTED
+86628;86628;Catalpa bignonioides Walter;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Bignoniaceae;SPECIES;ACCEPTED
+86629;86629;Celosia argentea L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86630;86630;Celtis australis L.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Cannabaceae;SPECIES;ACCEPTED
+86631;86631;Celtis occidentalis L.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Cannabaceae;SPECIES;ACCEPTED
+86632;86632;Cenchrus longispinus (Hack. ex Kneucker) Fernald;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86633;86633;Cenchrus spinifex Cav.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86634;86634;Centaurea cyanus L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86635;86635;Ceratopteris thalictroides (L.) Brongn.;;Plantae;Tracheophyta;Polypodiopsida;Polypodiales;Pteridaceae;SPECIES;ACCEPTED
+86636;86636;Cercis siliquastrum L.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+86637;86637;Chaerophyllum bulbosum L.;;Plantae;Tracheophyta;Magnoliopsida;Apiales;Apiaceae;SPECIES;ACCEPTED
+86638;86638;Chenopodium ambrosioides Bert.;Chenopodium ambrosioides Bert. ex Steud.;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;SYNONYM
+86639;86639;Chenopodium botrys L.;Dysphania botrys (L.) Mosyakin & Clemants;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;SYNONYM
+86640;86640;Chenopodium multifidum L.;Dysphania multifida (L.) Mosyakin & Clemants;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;SYNONYM
+86641;86641;Chenopodium pumilio R.Br.;Dysphania pumilio (R.Br.) Mosyakin & Clemants;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;SYNONYM
+86642;86642;Chenopodium schraderanum Schult.;Dysphania schraderiana (Schult.) Mosyakin & Clemants;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;SYNONYM
+86643;86643;Chloris barbata Sw.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86644;86644;Cicer arietinum L.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+86645;86645;Citrullus lanatus (Thunb.) Matsumura & Nakai;;Plantae;Tracheophyta;Magnoliopsida;Cucurbitales;Cucurbitaceae;SPECIES;ACCEPTED
+86646;86646;Cladium mariscus (L.) Pohl;;Plantae;Tracheophyta;Liliopsida;Poales;Cyperaceae;SPECIES;ACCEPTED
+86647;86647;Clarias gariepinus (Burchell, 1822);;Animalia;Chordata;Actinopterygii;Siluriformes;Clariidae;SPECIES;ACCEPTED
+86648;86648;Clarias ngamensis Castelnau, 1861;;Animalia;Chordata;Actinopterygii;Siluriformes;Clariidae;SPECIES;ACCEPTED
+86649;86649;Clematis tangutica Korsh.;;Plantae;Tracheophyta;Magnoliopsida;Ranunculales;Ranunculaceae;SPECIES;ACCEPTED
+86650;86650;Clematis viticella L.;;Plantae;Tracheophyta;Magnoliopsida;Ranunculales;Ranunculaceae;SPECIES;ACCEPTED
+86651;86651;Colutea arborescens L.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+86652;86652;Commelina communis L.;;Plantae;Tracheophyta;Liliopsida;Commelinales;Commelinaceae;SPECIES;ACCEPTED
+86653;86653;Consolida ajacis (L.) Schur;;Plantae;Tracheophyta;Magnoliopsida;Ranunculales;Ranunculaceae;SPECIES;ACCEPTED
+86654;86654;Conyza bonariensis (L.) Cronq.;Erigeron bonariensis L.;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;SYNONYM
+86655;86655;Corambe obscura (A.E.Verrill, 1870);;Animalia;Mollusca;Gastropoda;Nudibranchia;Corambidae;SPECIES;ACCEPTED
+86656;86656;Corbicula fluminea (O.F.MÃ¼ller, 1774);;Animalia;Mollusca;Bivalvia;Venerida;Cyrenidae;SPECIES;ACCEPTED
+86657;86657;Coregonus albula (Linnaeus, 1758);;Animalia;Chordata;Actinopterygii;Salmoniformes;Salmonidae;SPECIES;ACCEPTED
+86658;86658;Coregonus lavaretus Valenciennes, 1848;;Animalia;Chordata;Actinopterygii;Salmoniformes;Salmonidae;SPECIES;ACCEPTED
+86659;86659;Coregonus peled (Gmelin, 1789);;Animalia;Chordata;Actinopterygii;Salmoniformes;Salmonidae;SPECIES;ACCEPTED
+86660;86660;Coreopsis lanceolata L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86661;86661;Coreopsis tinctoria Nutt.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86662;86662;Coriandrum sativum L.;;Plantae;Tracheophyta;Magnoliopsida;Apiales;Apiaceae;SPECIES;ACCEPTED
+86663;86663;Corycaeus clausi Dahl F., 1894;;Animalia;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;SPECIES;ACCEPTED
+86664;86664;Corythucha arcuata (Say, 1832);;Animalia;Arthropoda;Insecta;Hemiptera;Tingidae;SPECIES;ACCEPTED
+86665;86665;Corythucha ciliata (Say, 1832);;Animalia;Arthropoda;Insecta;Hemiptera;Tingidae;SPECIES;ACCEPTED
+86666;86666;Cosmos bipinnatus Cav.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86667;86667;Crassostrea virginica (Gmelin, 1791);;Animalia;Mollusca;Bivalvia;Ostreida;Ostreidae;SPECIES;ACCEPTED
+86668;86668;Cryphonectria parasitica (Murrill) M.E.Barr;;Fungi;Ascomycota;Sordariomycetes;Diaporthales;Cryphonectriaceae;SPECIES;ACCEPTED
+86669;86669;Ctenocalanus vanus Giesbrecht, 1888;;Animalia;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;SPECIES;ACCEPTED
+86670;86670;Ctenopharyngodon idella (Valenciennes, 1844);;Animalia;Chordata;Actinopterygii;Cypriniformes;Cyprinidae;SPECIES;ACCEPTED
+86671;86671;Cucurbita pepo L.;;Plantae;Tracheophyta;Magnoliopsida;Cucurbitales;Cucurbitaceae;SPECIES;ACCEPTED
+86672;86672;Cuscuta pentagona Engelm.;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Convolvulaceae;SPECIES;ACCEPTED
+86673;86673;Cuscuta suaveolens Ser.;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Convolvulaceae;SPECIES;ACCEPTED
+86674;86674;Cyclachaena xanthiifolia Fresen.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86675;86675;Cyclamen purpurascens Mill.;;Plantae;Tracheophyta;Magnoliopsida;Ericales;Primulaceae;SPECIES;ACCEPTED
+86676;86676;Cydalima perspectalis (Walker, 1859);;Animalia;Arthropoda;Insecta;Lepidoptera;Crambidae;SPECIES;ACCEPTED
+86677;86677;Cydonia oblonga Mill.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;ACCEPTED
+86678;86678;Cymbalaria muralis G.Gaertn., B.Mey. & Schreb.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Plantaginaceae;SPECIES;ACCEPTED
+86679;86679;Cynara scolymus L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86680;86680;Cyperus esculentus L.;;Plantae;Tracheophyta;Liliopsida;Poales;Cyperaceae;SPECIES;ACCEPTED
+86681;86681;Cyperus odoratus L.;;Plantae;Tracheophyta;Liliopsida;Poales;Cyperaceae;SPECIES;ACCEPTED
+86682;86682;Cyprinus carpio haematopterus Martens, 1876;Cyprinus carpio Linnaeus, 1758;Animalia;Chordata;Actinopterygii;Cypriniformes;Cyprinidae;SUBSPECIES;SYNONYM
+86683;86683;Cyrtomium falcatum C.Presl;;Plantae;Tracheophyta;Polypodiopsida;Polypodiales;Dryopteridaceae;SPECIES;ACCEPTED
+86684;86684;Cytisus scoparius Link;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+86685;86685;Dama dama (Linnaeus, 1758);;Animalia;Chordata;Mammalia;Artiodactyla;Cervidae;SPECIES;ACCEPTED
+86686;86686;Datura innoxia Mill.;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;SPECIES;ACCEPTED
+86687;86687;Datura stramonium L.;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;SPECIES;ACCEPTED
+86688;86688;Datura wrightii Regel;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;SPECIES;ACCEPTED
+86689;86689;Diadumene lineata (Verrill, 1869);;Animalia;Cnidaria;Anthozoa;Actiniaria;Diadumenidae;SPECIES;ACCEPTED
+86690;86690;Dianthus barbatus L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Caryophyllaceae;SPECIES;ACCEPTED
+86691;86691;Diaspidiotus perniciosus (Comstock, 1881);;Animalia;Arthropoda;Insecta;Hemiptera;Diaspididae;SPECIES;ACCEPTED
+86692;86692;Diplotaxis erucoides DC.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86693;86693;Diplotaxis viminea DC.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86694;86694;Dipolydora quadrilobata (Jacobi, 1883);;Animalia;Annelida;Polychaeta;Spionida;Spionidae;SPECIES;ACCEPTED
+86695;86695;Dipsacus strigosus Willd.;;Plantae;Tracheophyta;Magnoliopsida;Dipsacales;Caprifoliaceae;SPECIES;ACCEPTED
+86696;86696;Dracocephalum moldavica L.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Lamiaceae;SPECIES;ACCEPTED
+86697;86697;Dreissena bugensis (Andrusov, 1897);;Animalia;Mollusca;Bivalvia;Myida;Dreissenidae;SPECIES;ACCEPTED
+86698;86698;Duchesnea indica (Andr.) Focke;Potentilla indica (Andrews) T.Wolf;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;SYNONYM
+86699;86699;Dysphania multifida (L.) Mosyakin & Clemants;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86700;86700;Dysphania pumilio (R.Br.) Mosyakin & Clemants;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+86701;86701;Echinochloa colona (L.) Link;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86702;86702;Echinochloa oryzicola Vasinger;Echinochloa oryzoides (Ard.) Fritsch;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;SYNONYM
+86703;86703;Echinochloa oryzoides (Ard.) Fritsch;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86704;86704;Echinocystis lobata Torr. & A.Gray;;Plantae;Tracheophyta;Magnoliopsida;Cucurbitales;Cucurbitaceae;SPECIES;ACCEPTED
+86705;86705;Eclipta alba Hassk.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86706;86706;Ectopsocus meridionalis Ribaga, 1904;;Animalia;Arthropoda;Insecta;Psocodea;Ectopsocidae;SPECIES;ACCEPTED
+86707;86707;Einhornia crustulenta (Pallas, 1766);;Animalia;Bryozoa;Gymnolaemata;Cheilostomatida;Electridae;SPECIES;ACCEPTED
+86708;86708;Elaeagnus angustifolia L.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Elaeagnaceae;SPECIES;ACCEPTED
+86709;86709;Eleusine indica (L.) Gaertn.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86710;86710;Elodea canadensis Michx.;;Plantae;Tracheophyta;Liliopsida;Alismatales;Hydrocharitaceae;SPECIES;ACCEPTED
+86711;86711;Elodea nuttallii St.John;;Plantae;Tracheophyta;Liliopsida;Alismatales;Hydrocharitaceae;SPECIES;ACCEPTED
+86712;86712;Elsholtzia ciliata (Thunb.) Hylander;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Lamiaceae;SPECIES;ACCEPTED
+86713;86713;Elymus athericus (Link) KerguÃ©len;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86714;86714;Encarsia formosa Gahan, 1924;;Animalia;Arthropoda;Insecta;Hymenoptera;Aphelinidae;SPECIES;ACCEPTED
+86715;86715;Epilobium adenocaulon Hausskn.;Epilobium ciliatum subsp. Ciliatum;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Onagraceae;SPECIES;SYNONYM
+86716;86716;Eranthis hyemalis Salisb.;;Plantae;Tracheophyta;Magnoliopsida;Ranunculales;Ranunculaceae;SPECIES;ACCEPTED
+86717;86717;Erechtites hieracifolia (L.) Raf.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86718;86718;Erigeron annuus Pers.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86719;86719;Erigeron bonariensis L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86720;86720;Erigeron canadensis L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86721;86721;Erigeron strigosus Muhl. ex Willd.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86722;86722;Erigeron sumatrensis Retz.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86723;86723;Eriocheir sinensis H.Milne Edwards, 1853;;Animalia;Arthropoda;Malacostraca;Decapoda;Pseudothelphusidae;SPECIES;ACCEPTED
+86724;86724;Eriochloa villosa Kunth;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86725;86725;Eruca vesicaria (L.) Cav.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86726;86726;Erucastrum gallicum O.E.Schulz;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86727;86727;Erucastrum nasturtiifolium O.E.Schulz;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86728;86728;Eschscholzia californica Cham.;;Plantae;Tracheophyta;Magnoliopsida;Ranunculales;Papaveraceae;SPECIES;ACCEPTED
+86729;86729;Euphorbia chamaesyce L.;;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;SPECIES;ACCEPTED
+86730;86730;Euphorbia dentata Michx.;;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;SPECIES;ACCEPTED
+86731;86731;Euphorbia humifusa Willd.;;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;SPECIES;ACCEPTED
+86732;86732;Euphorbia maculata L.;;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;SPECIES;ACCEPTED
+86733;86733;Euphorbia marginata Pursh;;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;SPECIES;ACCEPTED
+86734;86734;Euphorbia nutans Lag.;;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;SPECIES;ACCEPTED
+86735;86735;Euphorbia prostrata Ait.;;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;SPECIES;ACCEPTED
+86736;86736;Euphorbia segetalis L.;;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;SPECIES;ACCEPTED
+86737;86737;Eurypanopeus depressus Smith, 1869;;Animalia;Arthropoda;Malacostraca;Decapoda;Belliidae;SPECIES;ACCEPTED
+86738;86738;Euterpina acutifrons (Dana, 1847);;Animalia;Arthropoda;Hexanauplia;Harpacticoida;Tachidiidae;SPECIES;ACCEPTED
+86739;86739;Fallopia baldschuanica (Regel) Holub;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Polygonaceae;SPECIES;ACCEPTED
+86740;86740;Ferrissia californica (Rowell, 1863);;Animalia;Mollusca;Gastropoda;;Planorbidae;SPECIES;ACCEPTED
+86741;86741;Ficopomatus enigmaticus (Fauvel, 1923);;Animalia;Annelida;Polychaeta;Sabellida;Serpulidae;SPECIES;ACCEPTED
+86742;86742;Ficus carica L.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;SPECIES;ACCEPTED
+86743;86743;Fimbristylis bisumbellata Bubani;;Plantae;Tracheophyta;Liliopsida;Poales;Cyperaceae;SPECIES;ACCEPTED
+86744;86744;Foeniculum vulgare Mill.;;Plantae;Tracheophyta;Magnoliopsida;Apiales;Apiaceae;SPECIES;ACCEPTED
+86745;86745;Fragaria ananassa (Weston) Duchesne ex Rozier;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;ACCEPTED
+86746;86746;Fraxinus americana L.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Oleaceae;SPECIES;ACCEPTED
+86747;86747;Fraxinus pennsylvanica Marshall;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Oleaceae;SPECIES;ACCEPTED
+86748;86748;Gaillardia pulchella Foug.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86749;86749;Galeopsis segetum Neck.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Lamiaceae;SPECIES;ACCEPTED
+86750;86750;Galinsoga parviflora Cav.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86751;86751;Galinsoga quadriradiata Ruiz & Pav.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86752;86752;Gambusia holbrooki Girard, 1859;;Animalia;Chordata;Actinopterygii;Cyprinodontiformes;Poeciliidae;SPECIES;ACCEPTED
+86753;86753;Garveia franciscana (Torrey, 1902);;Animalia;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;SPECIES;ACCEPTED
+86754;86754;Geranium sibiricum L.;;Plantae;Tracheophyta;Magnoliopsida;Geraniales;Geraniaceae;SPECIES;ACCEPTED
+86755;86755;Ginkgo biloba L.;;Plantae;Tracheophyta;Ginkgoopsida;Ginkgoales;Ginkgoaceae;SPECIES;ACCEPTED
+86756;86756;Gleditsia triacanthos L.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+86757;86757;Glinus lotoides L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Molluginaceae;SPECIES;ACCEPTED
+86758;86758;Glischrochilus quadrisignatus (Say, 1835);;Animalia;Arthropoda;Insecta;Coleoptera;Nitidulidae;SPECIES;ACCEPTED
+86759;86759;Glycyrrhiza glabra L.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+86760;86760;Grindelia squarrosa (Pursh) Dunal;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86761;86761;Harmonia axyridis (Pallas, 1773);;Animalia;Arthropoda;Insecta;Coleoptera;Coccinellidae;SPECIES;ACCEPTED
+86762;86762;Helianthus annuus L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86763;86763;Helianthus decapetalus L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86764;86764;Helianthus tuberosus L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86765;86765;Heliotropium curassavicum L.;;Plantae;Tracheophyta;Magnoliopsida;Boraginales;Heliotropiaceae;SPECIES;ACCEPTED
+86766;86766;Helminthotheca echioides (L.) Holub;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86767;86767;Hemerocallis fulva L.;;Plantae;Tracheophyta;Liliopsida;Asparagales;Asphodelaceae;SPECIES;ACCEPTED
+86768;86768;Hemerocallis lilioasphodelus L.;;Plantae;Tracheophyta;Liliopsida;Asparagales;Asphodelaceae;SPECIES;ACCEPTED
+86769;86769;Hemigrapsus sanguineus (De Haan, 1835);;Animalia;Arthropoda;Malacostraca;Decapoda;Pseudothelphusidae;SPECIES;ACCEPTED
+86770;86770;Heracleum sosnowskyi Manden.;;Plantae;Tracheophyta;Magnoliopsida;Apiales;Apiaceae;SPECIES;ACCEPTED
+86771;86771;Hibiscus moscheutos L.;;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;SPECIES;ACCEPTED
+86772;86772;Hibiscus syriacus L.;;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;SPECIES;ACCEPTED
+86773;86773;Hordeum distichon L.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86774;86774;Hordeum jubatum L.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86775;86775;Hordeum marinum Huds.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86776;86776;Humulus scandens (Lour.) Merr.;Humulopsis scandens (Lour.) Grudz.;Plantae;Tracheophyta;Magnoliopsida;Rosales;Cannabaceae;SPECIES;SYNONYM
+86777;86777;Hylotelephium spectabile (Boreau) H.Ohba;;Plantae;Tracheophyta;Magnoliopsida;Saxifragales;Crassulaceae;SPECIES;ACCEPTED
+86778;86778;Hyoscyamus albus L.;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;SPECIES;ACCEPTED
+86779;86779;Hypecoum imberbe Sibth. & Sm.;;Plantae;Tracheophyta;Magnoliopsida;Ranunculales;Papaveraceae;SPECIES;ACCEPTED
+86780;86780;Hyphantria cunea (Drury, 1773);;Animalia;Arthropoda;Insecta;Lepidoptera;Erebidae;SPECIES;ACCEPTED
+86781;86781;Hypophthalmichthys molitrix (Valenciennes, 1844);;Animalia;Chordata;Actinopterygii;Cypriniformes;Cyprinidae;SPECIES;ACCEPTED
+86782;86782;Hypophthalmichthys nobilis (Richardson, 1845);;Animalia;Chordata;Actinopterygii;Cypriniformes;Cyprinidae;SPECIES;ACCEPTED
+86783;86783;Hypoponera punctatissima (Roger, 1859);;Animalia;Arthropoda;Insecta;Hymenoptera;Formicidae;SPECIES;ACCEPTED
+86784;86784;Iberis amara L.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86785;86785;Iberis umbellata L.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86786;86786;Ictalurus punctatus (Rafinesque, 1818);;Animalia;Chordata;Actinopterygii;Siluriformes;Ictaluridae;SPECIES;ACCEPTED
+86787;86787;Ictiobus bubalus (Rafinesque, 1818);;Animalia;Chordata;Actinopterygii;Cypriniformes;Catostomidae;SPECIES;ACCEPTED
+86788;86788;Ictiobus cyprinellus (Valenciennes, 1844);;Animalia;Chordata;Actinopterygii;Cypriniformes;Catostomidae;SPECIES;ACCEPTED
+86789;86789;Ictiobus niger (Rafinesque, 1819);;Animalia;Chordata;Actinopterygii;Cypriniformes;Catostomidae;SPECIES;ACCEPTED
+86790;86790;Impatiens balsamina L.;;Plantae;Tracheophyta;Magnoliopsida;Ericales;Balsaminaceae;SPECIES;ACCEPTED
+86791;86791;Impatiens glandulifera Royle;;Plantae;Tracheophyta;Magnoliopsida;Ericales;Balsaminaceae;SPECIES;ACCEPTED
+86792;86792;Impatiens parviflora DC.;;Plantae;Tracheophyta;Magnoliopsida;Ericales;Balsaminaceae;SPECIES;ACCEPTED
+86793;86793;Inula helenium L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86794;86794;Ipomoea hederacea Jacq.;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Convolvulaceae;SPECIES;ACCEPTED
+86795;86795;Ipomoea lacunosa L.;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Convolvulaceae;SPECIES;ACCEPTED
+86796;86796;Ipomoea purpurea (L.) Roth;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Convolvulaceae;SPECIES;ACCEPTED
+86797;86797;Ipomoea tricolor Cav.;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Convolvulaceae;SPECIES;ACCEPTED
+86798;86798;Iris germanica L.;;Plantae;Tracheophyta;Liliopsida;Asparagales;Iridaceae;SPECIES;ACCEPTED
+86799;86799;Iris pallida Lam.;;Plantae;Tracheophyta;Liliopsida;Asparagales;Iridaceae;SPECIES;ACCEPTED
+86800;86800;Japananus hyalinus Osborn, 1900;;Animalia;Arthropoda;Insecta;Hemiptera;Cicadellidae;SPECIES;ACCEPTED
+86801;86801;Juglans cinerea L.;;Plantae;Tracheophyta;Magnoliopsida;Fagales;Juglandaceae;SPECIES;ACCEPTED
+86802;86802;Juglans nigra L.;;Plantae;Tracheophyta;Magnoliopsida;Fagales;Juglandaceae;SPECIES;ACCEPTED
+86803;86803;Juglans regia L.;;Plantae;Tracheophyta;Magnoliopsida;Fagales;Juglandaceae;SPECIES;ACCEPTED
+86804;86804;Juncus dudleyi Wiegand;;Plantae;Tracheophyta;Liliopsida;Poales;Juncaceae;SPECIES;ACCEPTED
+86805;86805;Juncus tenuis Willd.;;Plantae;Tracheophyta;Liliopsida;Poales;Juncaceae;SPECIES;ACCEPTED
+86806;86806;Juniperus virginiana L.;;Plantae;Tracheophyta;Pinopsida;Pinales;Cupressaceae;SPECIES;ACCEPTED
+86807;86807;Koelreuteria paniculata Laxm.;;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Sapindaceae;SPECIES;ACCEPTED
+86808;86808;Lactuca sativa L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86809;86809;Lasius neglectus van Loon, Boomsma & AndrÃ¡sfalvy, 1990;;Animalia;Arthropoda;Insecta;Hymenoptera;Formicidae;SPECIES;ACCEPTED
+86810;86810;Lathyrus sativus L.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+86811;86811;Lemna minuta Kunth;;Plantae;Tracheophyta;Liliopsida;Alismatales;Araceae;SPECIES;ACCEPTED
+86812;86812;Lepidium densiflorum Schrad.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86813;86813;Lepidium didymum L.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86814;86814;Lepidium virginicum L.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86815;86815;Lepomis gibbosus (Linnaeus, 1758);;Animalia;Chordata;Actinopterygii;Perciformes;Centrarchidae;SPECIES;ACCEPTED
+86816;86816;Leptoglossus occidentalis Heidemann, 1910;;Animalia;Arthropoda;Insecta;Hemiptera;Coreidae;SPECIES;ACCEPTED
+86817;86817;Lindernia dubia Pennell;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Linderniaceae;SPECIES;ACCEPTED
+86818;86818;Linum usitatissimum L.;;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Linaceae;SPECIES;ACCEPTED
+86819;86819;Lobularia maritima (L.) Desv.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86820;86820;Lolium multiflorum Lam.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86821;86821;Lunaria annua L.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86822;86822;Lupinus polyphyllus Lindl.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+86823;86823;Lychnis chalcedonica L.;Silene chalcedonica E.H.L.Krause;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Caryophyllaceae;SPECIES;SYNONYM
+86824;86824;Lycium barbarum L.;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;SPECIES;ACCEPTED
+86825;86825;Macleaya cordata R.Br.;;Plantae;Tracheophyta;Magnoliopsida;Ranunculales;Papaveraceae;SPECIES;ACCEPTED
+86826;86826;Maclura pomifera (Raf.) C.K.Schneid.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;SPECIES;ACCEPTED
+86827;86827;Macropsis eleagni Emeljanov, 1964;;Animalia;Arthropoda;Insecta;Hemiptera;Cicadellidae;SPECIES;ACCEPTED
+86828;86828;Magallana gigas (Thunberg, 1793);;Animalia;Mollusca;Bivalvia;Ostreida;Ostreidae;SPECIES;ACCEPTED
+86829;86829;Mahonia aquifolium (Pursh) Nutt.;Berberis aquifolium Pursh;Plantae;Tracheophyta;Magnoliopsida;Ranunculales;Berberidaceae;SPECIES;SYNONYM
+86830;86830;Malus domestica Borkh.;Malus pumila Mill.;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;SYNONYM
+86831;86831;Malva moschata L.;;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;SPECIES;ACCEPTED
+86832;86832;Malva sylvestris var. mauritiana (L.) Boiss.;;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;VARIETY;ACCEPTED
+86833;86833;Malva verticillata L.;;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;SPECIES;ACCEPTED
+86834;86834;Matricaria discoidea DC.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86835;86835;Matthiola longipetala DC.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86836;86836;Mecynocera clausi Thompson I.C., 1888;;Animalia;Arthropoda;Hexanauplia;Calanoida;Paracalanidae;SPECIES;ACCEPTED
+86837;86837;Medicago sativa L.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+86838;86838;Megabruchidius dorsalis (FÃ¥hraeus, 1839);;Animalia;Arthropoda;Insecta;Coleoptera;Chrysomelidae;SPECIES;ACCEPTED
+86839;86839;Megabruchidius tonkineus (Pic, 1904);;Animalia;Arthropoda;Insecta;Coleoptera;Chrysomelidae;SPECIES;ACCEPTED
+86840;86840;Megalobrama terminalis (Richardson, 1846);;Animalia;Chordata;Actinopterygii;Cypriniformes;Cyprinidae;SPECIES;ACCEPTED
+86841;86841;Megastigmus spermotrophus Wachtl, 1893;;Animalia;Arthropoda;Insecta;Hymenoptera;Torymidae;SPECIES;ACCEPTED
+86842;86842;Melissa officinalis L.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Lamiaceae;SPECIES;ACCEPTED
+86843;86843;Mentha gentilis Georgi;Mentha arvensis L.;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Lamiaceae;SPECIES;SYNONYM
+86844;86844;Mentha piperita L.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Lamiaceae;SPECIES;ACCEPTED
+86845;86845;Mentha spicata L.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Lamiaceae;SPECIES;ACCEPTED
+86846;86846;Mentha villosa Huds.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Lamiaceae;SPECIES;ACCEPTED
+86847;86847;Mesocalanus tenuicornis (Dana, 1849);;Animalia;Arthropoda;Hexanauplia;Calanoida;Calanidae;SPECIES;ACCEPTED
+86848;86848;Mespilus germanica L.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;ACCEPTED
+86849;86849;Metcalfa pruinosa (Say, 1830);;Animalia;Arthropoda;Insecta;Hemiptera;Flatidae;SPECIES;ACCEPTED
+86850;86850;Microsetella rosea (Dana, 1847);;Animalia;Arthropoda;Hexanauplia;Harpacticoida;Ectinosomatidae;SPECIES;ACCEPTED
+86851;86851;Mirabilis jalapa L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Nyctaginaceae;SPECIES;ACCEPTED
+86852;86852;Mirabilis nyctaginea (Michx.) MacMill.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Nyctaginaceae;SPECIES;ACCEPTED
+86853;86853;Mnemiopsis leidyi A.Agassiz, 1865;;Animalia;Ctenophora;Tentaculata;Lobata;Bolinopsidae;SPECIES;ACCEPTED
+86854;86854;Molgula manhattensis (De Kay, 1843);;Animalia;Chordata;Ascidiacea;Stolidobranchia;Molgulidae;SPECIES;ACCEPTED
+86855;86855;Monema flavescens Walker, 1855;;Animalia;Arthropoda;Insecta;Lepidoptera;Limacodidae;SPECIES;ACCEPTED
+86856;86856;Monochoria korsakowii Regel & Maack;;Plantae;Tracheophyta;Liliopsida;Commelinales;Pontederiaceae;SPECIES;ACCEPTED
+86857;86857;Monomorium pharaonis (Linnaeus, 1758);;Animalia;Arthropoda;Insecta;Hymenoptera;Formicidae;SPECIES;ACCEPTED
+86858;86858;Morus alba L.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;SPECIES;ACCEPTED
+86859;86859;Morus nigra L.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;SPECIES;ACCEPTED
+86860;86860;Mya arenaria Linnaeus, 1758;;Animalia;Mollusca;Bivalvia;Myida;Myidae;SPECIES;ACCEPTED
+86861;86861;Mylopharyngodon piceus (Richardson, 1846);;Animalia;Chordata;Actinopterygii;Cypriniformes;Cyprinidae;SPECIES;ACCEPTED
+86862;86862;Myocastor coypus (Molina, 1782);;Animalia;Chordata;Mammalia;Rodentia;Myocastoridae;SPECIES;ACCEPTED
+86863;86863;Myriophyllum brasiliense Cambess.;Myriophyllum aquaticum Verdc.;Plantae;Tracheophyta;Magnoliopsida;Saxifragales;Haloragaceae;SPECIES;SYNONYM
+86864;86864;Myzocallis walshii (Monell, 1879);;Animalia;Arthropoda;Insecta;Hemiptera;Aphididae;SPECIES;ACCEPTED
+86865;86865;Narcissus poeticus L.;;Plantae;Tracheophyta;Liliopsida;Asparagales;Amaryllidaceae;SPECIES;ACCEPTED
+86866;86866;Nelumbo nucifera Gaertn.;;Plantae;Tracheophyta;Magnoliopsida;Proteales;Nelumbonaceae;SPECIES;ACCEPTED
+86867;86867;Nematus tibialis Newman, 1837;;Animalia;Arthropoda;Insecta;Hymenoptera;Tenthredinidae;SPECIES;ACCEPTED
+86868;86868;Neocalanus gracilis (Dana, 1852);;Animalia;Arthropoda;Hexanauplia;Calanoida;Calanidae;SPECIES;ACCEPTED
+86869;86869;Neoclytus acuminatus (Fabricius, 1775);;Animalia;Arthropoda;Insecta;Coleoptera;Cerambycidae;SPECIES;ACCEPTED
+86870;86870;Neovison vison (Schreber, 1777);;Animalia;Chordata;Mammalia;Carnivora;Mustelidae;SPECIES;ACCEPTED
+86871;86871;Nicandra physalodes (L.) Gaertn.;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;SPECIES;ACCEPTED
+86872;86872;Nicotiana alata Link & Otto;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;SPECIES;ACCEPTED
+86873;86873;Nigella damascena L.;;Plantae;Tracheophyta;Magnoliopsida;Ranunculales;Ranunculaceae;SPECIES;ACCEPTED
+86874;86874;Nigella sativa L.;;Plantae;Tracheophyta;Magnoliopsida;Ranunculales;Ranunculaceae;SPECIES;ACCEPTED
+86875;86875;Nonea lutea DC.;;Plantae;Tracheophyta;Magnoliopsida;Boraginales;Boraginaceae;SPECIES;ACCEPTED
+86876;86876;Nyctereutes procyonoides (Gray, 1834);;Animalia;Chordata;Mammalia;Carnivora;Canidae;SPECIES;ACCEPTED
+86877;86877;Obolodiplosis robiniae (Haldeman, 1847);;Animalia;Arthropoda;Insecta;Diptera;Cecidomyiidae;SPECIES;ACCEPTED
+86878;86878;Ocimum basilicum L.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Lamiaceae;SPECIES;ACCEPTED
+86879;86879;Oenothera biennis L.;;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Onagraceae;SPECIES;ACCEPTED
+86880;86880;Oenothera glazioviana Micheli;;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Onagraceae;SPECIES;ACCEPTED
+86881;86881;Oenothera parviflora L.;;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Onagraceae;SPECIES;ACCEPTED
+86882;86882;Oithona davisae Ferrari F.D. & Orsi, 1984;;Animalia;Arthropoda;Hexanauplia;Cyclopoida;Oithonidae;SPECIES;ACCEPTED
+86883;86883;Oncaea mediterranea (Claus, 1863);;Animalia;Arthropoda;Hexanauplia;Cyclopoida;Oncaeidae;SPECIES;ACCEPTED
+86884;86884;Oncorhynchus mykiss (Walbaum, 1792);;Animalia;Chordata;Actinopterygii;Salmoniformes;Salmonidae;SPECIES;ACCEPTED
+86885;86885;Ondatra zibethicus (Linnaeus, 1766);;Animalia;Chordata;Mammalia;Rodentia;Cricetidae;SPECIES;ACCEPTED
+86886;86886;Ophiostoma novo-ulmi Brasier;;Fungi;Ascomycota;Sordariomycetes;Ophiostomatales;Ophiostomataceae;SPECIES;ACCEPTED
+86887;86887;Orconectes limosus (Rafinesque, 1817);;Animalia;Arthropoda;Malacostraca;Decapoda;Cambaridae;SPECIES;ACCEPTED
+86888;86888;Oryctolagus cuniculus (Linnaeus, 1758);;Animalia;Chordata;Mammalia;Lagomorpha;Leporidae;SPECIES;ACCEPTED
+86889;86889;Oxalis corniculata L.;;Plantae;Tracheophyta;Magnoliopsida;Oxalidales;Oxalidaceae;SPECIES;ACCEPTED
+86890;86890;Oxalis dillenii Jacq.;;Plantae;Tracheophyta;Magnoliopsida;Oxalidales;Oxalidaceae;SPECIES;ACCEPTED
+86891;86891;Oxalis fontana;;Plantae;Tracheophyta;Magnoliopsida;Oxalidales;Oxalidaceae;SPECIES;ACCEPTED
+86892;86892;Ozognathus cornutus (LeConte, 1859);;Animalia;Arthropoda;Insecta;Coleoptera;Anobiidae;SPECIES;ACCEPTED
+86893;86893;Pacifastacus leniusculus (Dana, 1852);;Animalia;Arthropoda;Malacostraca;Decapoda;Astacidae;SPECIES;ACCEPTED
+86894;86894;Palaemon macrodactylus M.J.Rathbun, 1902;;Animalia;Arthropoda;Malacostraca;Decapoda;Palaemonidae;SPECIES;ACCEPTED
+86895;86895;Panicum capillare L.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86896;86896;Panicum dichotomiflorum Michx.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86897;86897;Panicum miliaceum L.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86898;86898;Panicum schinzii Hack.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86899;86899;Papaver somniferum L.;;Plantae;Tracheophyta;Magnoliopsida;Ranunculales;Papaveraceae;SPECIES;ACCEPTED
+86900;86900;Parabramis pekinensis (Basilewsky, 1855);;Animalia;Chordata;Actinopterygii;Cypriniformes;Cyprinidae;SPECIES;ACCEPTED
+86901;86901;Paracalanus aculeatus Giesbrecht, 1888;;Animalia;Arthropoda;Hexanauplia;Calanoida;Paracalanidae;SPECIES;ACCEPTED
+86902;86902;Paracalanus nanus Sars G.O., 1925;;Animalia;Arthropoda;Hexanauplia;Calanoida;Paracalanidae;SPECIES;ACCEPTED
+86903;86903;Parapholis incurva (L.) C.E.Hubb.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86904;86904;Parectopa robiniella Clemens, 1863;;Animalia;Arthropoda;Insecta;Lepidoptera;Gracillariidae;SPECIES;ACCEPTED
+86905;86905;Parthenocissus quinquefolia (L.) Planch.;;Plantae;Tracheophyta;Magnoliopsida;Vitales;Vitaceae;SPECIES;ACCEPTED
+86906;86906;Parthenocissus tricuspidata Planch.;;Plantae;Tracheophyta;Magnoliopsida;Vitales;Vitaceae;SPECIES;ACCEPTED
+86907;86907;Parthenocissus vitacea (Knerr) Hitchc.;;Plantae;Tracheophyta;Magnoliopsida;Vitales;Vitaceae;SPECIES;ACCEPTED
+86908;86908;Parthenolecanium fletcheri (Cockerell, 1893);;Animalia;Arthropoda;Insecta;Hemiptera;Coccidae;SPECIES;ACCEPTED
+86909;86909;Paspalum distichum L.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86910;86910;Perccottus glenii Dybowski, 1877;;Animalia;Chordata;Actinopterygii;Perciformes;Odontobutidae;SPECIES;ACCEPTED
+86911;86911;Perigona nigriceps (Dejean, 1831);;Animalia;Arthropoda;Insecta;Coleoptera;Carabidae;SPECIES;ACCEPTED
+86912;86912;Perilla frutescens Britton.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Lamiaceae;SPECIES;ACCEPTED
+86913;86913;Persicaria orientalis (L.) Spach;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Polygonaceae;SPECIES;ACCEPTED
+86914;86914;Persicaria pensylvanica (L.) M.GÃ³mez;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Polygonaceae;SPECIES;ACCEPTED
+86915;86915;Petunia atkinsiana D.Don ex Loudon;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;SPECIES;ACCEPTED
+86916;86916;Petunia integrifolia (Hook.) Schinz & Thell.;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;SPECIES;ACCEPTED
+86917;86917;Petunia parviflora Juss.;Calibrachoa parviflora (Jussieu) D'Arcy;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;SPECIES;SYNONYM
+86918;86918;Phacelia tanacetifolia Benth.;;Plantae;Tracheophyta;Magnoliopsida;Boraginales;Hydrophyllaceae;SPECIES;ACCEPTED
+86919;86919;Phalaris canariensis L.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86920;86920;Phasianus colchicus Linnaeus, 1758;;Animalia;Chordata;Aves;Galliformes;Phasianidae;SPECIES;ACCEPTED
+86921;86921;Phemeranthus confertiflorus (Greene) Hershk.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Montiaceae;SPECIES;ACCEPTED
+86922;86922;Philadelphus pubescens Loisel.;;Plantae;Tracheophyta;Magnoliopsida;Cornales;Hydrangeaceae;SPECIES;ACCEPTED
+86923;86923;Phyllonorycter issikii (Kumata, 1963);;Animalia;Arthropoda;Insecta;Lepidoptera;Gracillariidae;SPECIES;ACCEPTED
+86924;86924;Phyllonorycter platani (Staudinger, 1870);;Animalia;Arthropoda;Insecta;Lepidoptera;Gracillariidae;SPECIES;ACCEPTED
+86925;86925;Phyllonorycter robiniella (Clemens, 1859);;Animalia;Arthropoda;Insecta;Lepidoptera;Gracillariidae;SPECIES;ACCEPTED
+86926;86926;Physella acuta (Draparnaud, 1805);;Animalia;Mollusca;Gastropoda;Stylommatophora;Spiraxidae;SPECIES;ACCEPTED
+86927;86927;Phytolacca acinosa Roxb.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Phytolaccaceae;SPECIES;ACCEPTED
+86928;86928;Phytolacca americana L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Phytolaccaceae;SPECIES;ACCEPTED
+86929;86929;Phytophthora cinnamomi Rands;;Chromista;Oomycota;Peronosporea;Peronosporales;Peronosporaceae;SPECIES;ACCEPTED
+86930;86930;Pineus strobi (Hartig, 1839);;Animalia;Arthropoda;Insecta;Hemiptera;Adelgidae;SPECIES;ACCEPTED
+86931;86931;Pinus banksiana Lamb.;;Plantae;Tracheophyta;Pinopsida;Pinales;Pinaceae;SPECIES;ACCEPTED
+86932;86932;Pinus ponderosa Douglas ex P.Lawson & C.Lawson;;Plantae;Tracheophyta;Pinopsida;Pinales;Pinaceae;SPECIES;ACCEPTED
+86933;86933;Pinus strobus L.;;Plantae;Tracheophyta;Pinopsida;Pinales;Pinaceae;SPECIES;ACCEPTED
+86934;86934;Plagiolepis obscuriscapa Santschi, 1923;;Animalia;Arthropoda;Insecta;Hymenoptera;Formicidae;SPECIES;ACCEPTED
+86935;86935;Planiliza haematocheila (Temminck & Schlegel, 1845);;Animalia;Chordata;Actinopterygii;Mugiliformes;Mugilidae;SPECIES;ACCEPTED
+86936;86936;Plantago sempervirens Crantz;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Plantaginaceae;SPECIES;ACCEPTED
+86937;86937;Podisus maculiventris (Say, 1832);;Animalia;Arthropoda;Insecta;Hemiptera;Pentatomidae;SPECIES;ACCEPTED
+86938;86938;Poecilia reticulata Peters, 1859;;Animalia;Chordata;Actinopterygii;Cyprinodontiformes;Poeciliidae;SPECIES;ACCEPTED
+86939;86939;Polydora cornuta Bosc, 1802;;Animalia;Annelida;Polychaeta;Spionida;Spionidae;SPECIES;ACCEPTED
+86940;86940;Polydora websteri Hartman, 1943;;Animalia;Annelida;Polychaeta;Spionida;Spionidae;SPECIES;ACCEPTED
+86941;86941;Polyodon spathula (Walbaum, 1792);;Animalia;Chordata;Actinopterygii;Acipenseriformes;Polyodontidae;SPECIES;ACCEPTED
+86942;86942;Ponometia candefacta (HÃ¼bner, 1831);Acontia candefacta (Hubner, 1831);Animalia;Arthropoda;Insecta;Lepidoptera;Noctuidae;SPECIES;SYNONYM
+86943;86943;Pontella mediterranea (Claus, 1863);;Animalia;Arthropoda;Hexanauplia;Calanoida;Pontellidae;SPECIES;ACCEPTED
+86944;86944;Populus canadensis Moench;;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Salicaceae;SPECIES;ACCEPTED
+86945;86945;Portulaca grandiflora Hook.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Portulacaceae;SPECIES;ACCEPTED
+86946;86946;Portulaca oleracea L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Portulacaceae;SPECIES;ACCEPTED
+86947;86947;Portulaca pilosa L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Portulacaceae;SPECIES;ACCEPTED
+86948;86948;Potamopyrgus antipodarum (Gray, 1843);;Animalia;Mollusca;Gastropoda;Littorinimorpha;Tateidae;SPECIES;ACCEPTED
+86949;86949;Potentilla indica (Andrews) T.Wolf;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;ACCEPTED
+86950;86950;Procambarus fallax f. virginalis Martin, Dorn, Kawai, van der Heiden & Scholtz, 2010;Procambarus fallax (Hagen, 1870);Animalia;Arthropoda;Malacostraca;Decapoda;Cambaridae;FORM;SYNONYM
+86951;86951;Prunus armeniaca L.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;ACCEPTED
+86952;86952;Prunus cerasifera Ehrh.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;ACCEPTED
+86953;86953;Prunus cerasus L.;Prunus avium (L.) L.;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;SYNONYM
+86954;86954;Prunus domestica L.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;ACCEPTED
+86955;86955;Prunus dulcis (Mill.) D.A.Webb;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;ACCEPTED
+86956;86956;Prunus persica Stokes;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;ACCEPTED
+86957;86957;Prunus serotina Ehrh.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;ACCEPTED
+86958;86958;Pseudaulacaspis pentagona (Targioni Tozzetti, 1886);;Animalia;Arthropoda;Insecta;Hemiptera;Diaspididae;SPECIES;ACCEPTED
+86959;86959;Pseudofumaria lutea (L.) Borkh.;;Plantae;Tracheophyta;Magnoliopsida;Ranunculales;Papaveraceae;SPECIES;ACCEPTED
+86960;86960;Pseudorasbora parva (Temminck & Schlegel, 1846);;Animalia;Chordata;Actinopterygii;Cypriniformes;Cyprinidae;SPECIES;ACCEPTED
+86961;86961;Pseudosuccinea columella (Say, 1817);;Animalia;Mollusca;Gastropoda;;Lymnaeidae;SPECIES;ACCEPTED
+86962;86962;Pseudotsuga menziesii (Mirb.) Franco;;Plantae;Tracheophyta;Pinopsida;Pinales;Pinaceae;SPECIES;ACCEPTED
+86963;86963;Psyllipsocus ramburii Selys-Longchamps, 1872;;Animalia;Arthropoda;Insecta;Psocodea;Psyllipsocidae;SPECIES;ACCEPTED
+86964;86964;Pulvinaria floccifera (Westwood, 1870);;Animalia;Arthropoda;Insecta;Hemiptera;Coccidae;SPECIES;ACCEPTED
+86965;86965;Quercus palustris MÃ¼nchh.;;Plantae;Tracheophyta;Magnoliopsida;Fagales;Fagaceae;SPECIES;ACCEPTED
+86966;86966;Quercus rubra L.;;Plantae;Tracheophyta;Magnoliopsida;Fagales;Fagaceae;SPECIES;ACCEPTED
+86967;86967;Rapana venosa (Valenciennes, 1846);;Animalia;Mollusca;Gastropoda;Neogastropoda;Muricidae;SPECIES;ACCEPTED
+86968;86968;Raphanus raphanistrum L.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86969;86969;Raphanus sativus L.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+86970;86970;Rathkea octopunctata (M.Sars, 1835);;Animalia;Cnidaria;Hydrozoa;Anthoathecata;Rathkeidae;SPECIES;ACCEPTED
+86971;86971;Reseda alba L.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Resedaceae;SPECIES;ACCEPTED
+86972;86972;Reseda odorata L.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Resedaceae;SPECIES;ACCEPTED
+86973;86973;Reynoutria bohemica Chrtek & ChrtkovÃ¡;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Polygonaceae;SPECIES;ACCEPTED
+86974;86974;Reynoutria japonica Houtt.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Polygonaceae;SPECIES;ACCEPTED
+86975;86975;Reynoutria sachalinensis Nakai;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Polygonaceae;SPECIES;ACCEPTED
+86976;86976;Rhithropanopeus harrisii (Gould, 1841);;Animalia;Arthropoda;Malacostraca;Decapoda;Panopeidae;SPECIES;ACCEPTED
+86977;86977;Rhus typhina L.;;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Anacardiaceae;SPECIES;SYNONYM
+86978;86978;Rhus typhina L.;;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Anacardiaceae;SPECIES;ACCEPTED
+86979;86979;Ribes aureum Pursh;;Plantae;Tracheophyta;Magnoliopsida;Saxifragales;Grossulariaceae;SPECIES;ACCEPTED
+86980;86980;Ribes rubrum L.;;Plantae;Tracheophyta;Magnoliopsida;Saxifragales;Grossulariaceae;SPECIES;ACCEPTED
+86981;86981;Ricinus communis L.;;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;SPECIES;ACCEPTED
+86982;86982;Robinia pseudoacacia L.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+86983;86983;Robinia viscosa Vent.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+86984;86984;Rosa foetida Herrm.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;ACCEPTED
+86985;86985;Rosa rugosa Thunb.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;ACCEPTED
+86986;86986;Rosa xalba L.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;ACCEPTED
+86987;86987;Rubus phoenicolasius Maxim.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;ACCEPTED
+86988;86988;Rudbeckia hirta L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86989;86989;Rudbeckia laciniata L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86990;86990;Rudbeckia triloba L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+86991;86991;Rumex longifolius DC.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Polygonaceae;SPECIES;ACCEPTED
+86992;86992;Ruta graveolens L.;;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Rutaceae;SPECIES;ACCEPTED
+86993;86993;Saccharum ravennae (L.) L.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+86994;86994;Sagina maritima G.Don;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Caryophyllaceae;SPECIES;ACCEPTED
+86995;86995;Sagittaria lancifolia L.;;Plantae;Tracheophyta;Liliopsida;Alismatales;Alismataceae;SPECIES;ACCEPTED
+86996;86996;Sagittaria latifolia Willd.;;Plantae;Tracheophyta;Liliopsida;Alismatales;Alismataceae;SPECIES;ACCEPTED
+86997;86997;Sagittaria subulata Buchenau;;Plantae;Tracheophyta;Liliopsida;Alismatales;Alismataceae;SPECIES;ACCEPTED
+86998;86998;Sagittaria trifolia L.;;Plantae;Tracheophyta;Liliopsida;Alismatales;Alismataceae;SPECIES;ACCEPTED
+86999;86999;Salicornia procumbens var. stricta (G.Mey.) J.Duvigneaud & J.Lambinon;Salicornia europaea subsp. Europaea;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;VARIETY;SYNONYM
+87000;87000;Salicornia ramosissima Woods;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+87001;87001;Salix babylonica L.;;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Salicaceae;SPECIES;ACCEPTED
+87002;87002;Salsola collina Pall.;Kali collina (Pall.) Akhani & Roalson;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;SYNONYM
+87003;87003;Salvelinus fontinalis (Mitchill, 1814);;Animalia;Chordata;Actinopterygii;Salmoniformes;Salmonidae;SPECIES;ACCEPTED
+87004;87004;Salvia reflexa Hornem.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Lamiaceae;SPECIES;ACCEPTED
+87005;87005;Salvia sclarea L.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Lamiaceae;SPECIES;ACCEPTED
+87006;87006;Salvia splendens Sellow ex Nees;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Lamiaceae;SPECIES;ACCEPTED
+87007;87007;Salvia verbenaca L.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Lamiaceae;SPECIES;ACCEPTED
+87008;87008;Satureja hortensis L.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Lamiaceae;SPECIES;ACCEPTED
+87009;87009;Saxifraga cymbalaria L.;;Plantae;Tracheophyta;Magnoliopsida;Saxifragales;Saxifragaceae;SPECIES;ACCEPTED
+87010;87010;Sceliphron caementarium (Drury, 1773);;Animalia;Arthropoda;Insecta;Hymenoptera;Sphecidae;SPECIES;ACCEPTED
+87011;87011;Sceliphron curvatum (F.Smith, 1870);;Animalia;Arthropoda;Insecta;Hymenoptera;Sphecidae;SPECIES;ACCEPTED
+87012;87012;Scilla siberica Andrews;;Plantae;Tracheophyta;Liliopsida;Asparagales;Asparagaceae;SPECIES;ACCEPTED
+87013;87013;Secale cereale L.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+87014;87014;Sedum sarmentosum Bunge;;Plantae;Tracheophyta;Magnoliopsida;Saxifragales;Crassulaceae;SPECIES;ACCEPTED
+87015;87015;Sedum spurium Bieb.;Phedimus spurius (M.Bieb.) 't Hart;Plantae;Tracheophyta;Magnoliopsida;Saxifragales;Crassulaceae;SPECIES;SYNONYM
+87016;87016;Sempervivum tectorum L.;;Plantae;Tracheophyta;Magnoliopsida;Saxifragales;Crassulaceae;SPECIES;ACCEPTED
+87017;87017;Senecio inaequidens DC.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+87018;87018;Senna obtusifolia (L.) H.S.Irwin & Barneby;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+87019;87019;Sesbania herbacea (Mill.) McVaugh;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+87020;87020;Setaria faberi R.A.W.Herrm.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+87021;87021;Setaria italica P.Beauv.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+87022;87022;Setaria verticilliformis Dumort.;Setaria verticillata (L.) P.Beauv.;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;SYNONYM
+87023;87023;Sibine stimulea Clemens, 1860;;Animalia;Arthropoda;Insecta;Lepidoptera;Limacodidae;SPECIES;ACCEPTED
+87024;87024;Sicyos angulatus L.;;Plantae;Tracheophyta;Magnoliopsida;Cucurbitales;Cucurbitaceae;SPECIES;ACCEPTED
+87025;87025;Sida spinosa L.;;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;SPECIES;ACCEPTED
+87026;87026;Sigesbeckia orientalis L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+87027;87027;Silene chalcedonica E.H.L.Krause;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Caryophyllaceae;SPECIES;ACCEPTED
+87028;87028;Silene pendula L.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Caryophyllaceae;SPECIES;ACCEPTED
+87029;87029;Silene sibirica Pers.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Caryophyllaceae;SPECIES;ACCEPTED
+87030;87030;Silphium perfoliatum L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+87031;87031;Silybum marianum (L.) Gaertn.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+87032;87032;Sinanodonta woodiana (I.Lea, 1834);;Animalia;Mollusca;Bivalvia;Unionida;Unionidae;SPECIES;ACCEPTED
+87033;87033;Sinapis alba L.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+87034;87034;Sisymbrium austriacum Jacq.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+87035;87035;Sisymbrium irio L.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+87036;87036;Sisymbrium volgense M.Bieb. ex E.Fourn.;;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Brassicaceae;SPECIES;ACCEPTED
+87037;87037;Sisyrinchium montanum Greene;;Plantae;Tracheophyta;Liliopsida;Asparagales;Iridaceae;SPECIES;ACCEPTED
+87038;87038;Solanum angustifolium Mill.;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;SPECIES;ACCEPTED
+87039;87039;Solanum carolinense L.;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;SPECIES;ACCEPTED
+87040;87040;Solanum citrullifolium A.Braun;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;SPECIES;ACCEPTED
+87041;87041;Solanum lycopersicum L.;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;SPECIES;ACCEPTED
+87042;87042;Solanum rostratum Dun.;Solanum angustifolium Mill.;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;SPECIES;SYNONYM
+87043;87043;Solanum triflorum Nutt.;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;SPECIES;ACCEPTED
+87044;87044;Solanum triflorum var. ponticum (ProdÃ¡n) Borza;Solanum triflorum Nutt.;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;VARIETY;SYNONYM
+87045;87045;Solanum tuberosum L.;;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;SPECIES;ACCEPTED
+87046;87046;Solidago canadensis L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+87047;87047;Solidago gigantea Aiton;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+87048;87048;Solidago graminifolia (L.) Salisb.;Euthamia graminifolia (L.) Nutt.;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;SYNONYM
+87049;87049;Sophora japonica L.;Styphnolobium japonicum (L.) Schott;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;SYNONYM
+87050;87050;Sophora jaubertii Spach ex Jaub. & Spach;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+87051;87051;Sorbaria sorbifolia (L.) A.Braun;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;ACCEPTED
+87052;87052;Sorghum bicolor (L.) Moench;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+87053;87053;Sorghum halepense Pers.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+87054;87054;Sorghum sudanense (Piper) Stapf;Sorghum drummondii (Nees ex Steud.) Millsp. & Chase;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;SYNONYM
+87055;87055;Spartium junceum L.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+87056;87056;Sphaeroma walkeri Stebbing, 1905;;Animalia;Arthropoda;Malacostraca;Isopoda;Sphaeromatidae;SPECIES;ACCEPTED
+87057;87057;Spiraea hypericifolia L.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;ACCEPTED
+87058;87058;Spiraea japonica L.f.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;SPECIES;ACCEPTED
+87059;87059;Stachys byzantina K.Koch;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Lamiaceae;SPECIES;ACCEPTED
+87060;87060;Streblospio gynobranchiata Rice & Levin, 1998;;Animalia;Annelida;Polychaeta;Spionida;Spionidae;SPECIES;ACCEPTED
+87061;87061;Styela clava Herdman, 1881;;Animalia;Chordata;Ascidiacea;Stolidobranchia;Styelidae;SPECIES;ACCEPTED
+87062;87062;Suaeda splendens Gren. & Godr.;;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;SPECIES;ACCEPTED
+87063;87063;Symphoricarpos albus (L.) C.Koch;;Plantae;Tracheophyta;Magnoliopsida;Dipsacales;Caprifoliaceae;SPECIES;ACCEPTED
+87064;87064;Symphyotrichum ciliatum (Ledeb.) G.L.Nesom;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+87065;87065;Symphyotrichum lanceolatum (Willd.) G.L.Nesom;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+87066;87066;Symphyotrichum novae-angliae (L.) G.L.Nesom;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+87067;87067;Tagetes erecta L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+87068;87068;Tagetes patula L.;Tagetes erecta L.;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;SYNONYM
+87069;87069;Tanacetum parthenium Sch.Bip.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+87070;87070;Tapinoma melanocephalum (Fabricius, 1793);;Animalia;Arthropoda;Insecta;Hymenoptera;Formicidae;SPECIES;ACCEPTED
+87071;87071;Taxodium distichum Rich.;;Plantae;Tracheophyta;Pinopsida;Pinales;Cupressaceae;SPECIES;ACCEPTED
+87072;87072;Teredo navalis Linnaeus, 1758;;Animalia;Mollusca;Bivalvia;Myida;Teredinidae;SPECIES;ACCEPTED
+87073;87073;Thladiantha dubia Bunge;;Plantae;Tracheophyta;Magnoliopsida;Cucurbitales;Cucurbitaceae;SPECIES;ACCEPTED
+87074;87074;Thuja orientalis L.;Platycladus orientalis (L.) Franco;Plantae;Tracheophyta;Pinopsida;Pinales;Cupressaceae;SPECIES;SYNONYM
+87075;87075;Tinocallis saltans (Nevsky, 1929);;Animalia;Arthropoda;Insecta;Hemiptera;Aphididae;SPECIES;ACCEPTED
+87076;87076;Trachemys scripta (Thunberg In Schoepff, 1792);;Animalia;Chordata;Reptilia;Testudines;Emydidae;SPECIES;ACCEPTED
+87077;87077;Tradescantia fluminensis Vell.;;Plantae;Tracheophyta;Liliopsida;Commelinales;Commelinaceae;SPECIES;ACCEPTED
+87078;87078;Tragopogon graminifolius DC.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+87079;87079;Tragopogon porrifolius L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+87080;87080;Trichoferus campestris (Faldermann, 1835);;Animalia;Arthropoda;Insecta;Coleoptera;Cerambycidae;SPECIES;ACCEPTED
+87081;87081;Triconia dentipes (Giesbrecht, 1891);;Animalia;Arthropoda;Hexanauplia;Cyclopoida;Oncaeidae;SPECIES;ACCEPTED
+87082;87082;Triconia minuta;;Animalia;Arthropoda;Hexanauplia;Cyclopoida;Oncaeidae;SPECIES;ACCEPTED
+87083;87083;Trifolium hybridum L.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+87084;87084;Trifolium incarnatum L.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+87085;87085;Trigonella caerulea Ser.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+87086;87086;Trioza neglecta Loginova, 1978;;Animalia;Arthropoda;Insecta;Hemiptera;Triozidae;SPECIES;ACCEPTED
+87087;87087;Ulmus pumila L.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Ulmaceae;SPECIES;ACCEPTED
+87088;87088;Unaspis euonymi (Comstock, 1881);;Animalia;Arthropoda;Insecta;Hemiptera;Diaspididae;SPECIES;ACCEPTED
+87089;87089;Urnatella gracilis Leidy, 1851;;Animalia;Entoprocta;;;Barentsiidae;SPECIES;ACCEPTED
+87090;87090;Urocorycaeus furcifer (Claus, 1863);;Animalia;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;SPECIES;ACCEPTED
+87091;87091;Urtica pilulifera L.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Urticaceae;SPECIES;ACCEPTED
+87092;87092;Uscana johnstoni (Waterston, 1926);;Animalia;Arthropoda;Insecta;Hymenoptera;Trichogrammatidae;SPECIES;ACCEPTED
+87093;87093;Vallisneria spiralis L.;;Plantae;Tracheophyta;Liliopsida;Alismatales;Hydrocharitaceae;SPECIES;ACCEPTED
+87094;87094;Verbesina encelioides (Cav.) A.Gray;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+87095;87095;Veronica peregrina L.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Plantaginaceae;SPECIES;ACCEPTED
+87096;87096;Veronica persica Poir.;;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Plantaginaceae;SPECIES;ACCEPTED
+87097;87097;Verruca spengleri Darwin, 1854;;Animalia;Arthropoda;Maxillopoda;Sessilia;Verrucidae;SPECIES;ACCEPTED
+87098;87098;Viburnum rhytidophyllum Hemsl. ex Forb. & Hemsl.;;Plantae;Tracheophyta;Magnoliopsida;Dipsacales;Adoxaceae;SPECIES;ACCEPTED
+87099;87099;Vicia angustifolia Reichard;Vicia sativa subsp. nigra (L.) Ehrh.;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;SYNONYM
+87100;87100;Vicia articulata Hornem.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+87101;87101;Vicia ervilia Willd.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+87102;87102;Vicia lutea L.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+87103;87103;Vicia sativa L.;;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;SPECIES;ACCEPTED
+87104;87104;Vinca major L.;;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Apocynaceae;SPECIES;ACCEPTED
+87105;87105;Viola wittrockiana Gams ex Nauenb. & Buttler;;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Violaceae;SPECIES;ACCEPTED
+87106;87106;Vitis rupestris Scheele;;Plantae;Tracheophyta;Magnoliopsida;Vitales;Vitaceae;SPECIES;ACCEPTED
+87107;87107;Vitis vinifera L.;;Plantae;Tracheophyta;Magnoliopsida;Vitales;Vitaceae;SPECIES;ACCEPTED
+87108;87108;Xanthium orientale L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+87109;87109;Xanthium spinosum L.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+87110;87110;Xylosandrus germanus Blandford, 1894;;Animalia;Arthropoda;Insecta;Coleoptera;Curculionidae;SPECIES;ACCEPTED
+87111;87111;Yucca filamentosa L.;;Plantae;Tracheophyta;Liliopsida;Asparagales;Asparagaceae;SPECIES;ACCEPTED
+87112;87112;Zea mays L.;;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;SPECIES;ACCEPTED
+87113;87113;Zinnia elegans Jacq.;;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;SPECIES;ACCEPTED
+87114;87114;Ziziphus jujuba Mill.;;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rhamnaceae;SPECIES;ACCEPTED

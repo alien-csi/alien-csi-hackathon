@@ -1,0 +1,616 @@
+scientificName
+Acanthoscelides obtectus (Say, 1831)
+Acanthoscelides pallidipennis (Motschulsky, 1874)
+Acer negundo L.
+Acer pseudoplatanus L.
+Achillea roseoalba Ehrend.
+Acorus calamus L.
+Adelges cooleyi (Gillette, 1907)
+Adelges nordmannianae (Eckstein, 1890)
+Adonis annua L.
+Aedes albopictus Skuse, 1894
+Aesculus hippocastanum L.
+Agetus flaccus (Giesbrecht, 1891)
+Agetus typicus KrÃ¸yer, 1849
+Agropogon littoralis (Smith) C.E.Hubbard
+Agrostemma githago L.
+Ailanthus altissima Swingle
+Alcea rosea L.
+Alkekengi officinarum Moench
+Alopochen aegyptiaca (Linnaeus, 1766)
+Amaranthus albus L.
+Amaranthus blitoides S.Watson
+Amaranthus blitum L.
+Amaranthus blitum subsp. blitum
+Amaranthus budensis Priszter
+Amaranthus caudatus L.
+Amaranthus crispus (Lesp. & ThÃ©v.) N.Terracc.
+Amaranthus cruentus L.
+Amaranthus deflexus L.
+Amaranthus emarginatus Salzm. ex Uline & W.L.Bray
+Amaranthus graecizans L.
+Amaranthus hybridus L.
+Amaranthus hypochondriacus L.
+Amaranthus palmeri S.Watson
+Amaranthus powellii S.Watson
+Amaranthus quitensis Kunth
+Amaranthus retroflexus L.
+Amaranthus spinosus L.
+Amaranthus tuberculatus (Moq. ex DC.) J.D.Sauer
+Amaranthus viridis L.
+Ambrosia artemisiifolia L.
+Ambrosia psilostachya DC.
+Ambrosia trifida L.
+Ameiurus melas (Rafinesque, 1820)
+Ameiurus nebulosus (Lesueur, 1819)
+Amorpha fruticosa L.
+Amphibalanus amphitrite Darwin, 1854
+Anadara kagoshimensis (Tokunaga, 1906)
+Anemone altaica Fisch. ex C.A.Mey.
+Anethum graveolens L.
+Anser indicus (Latham, 1790)
+Antirrhinum majus L.
+Aphanomyces astaci Schikora
+Aphytis mytilaspidis (Le Baron, 1870)
+Apium graveolens L.
+Aproceros leucopoda Takeuchi, 1939
+Aquilegia vulgaris L.
+Arctium tomentosum Mill.
+Arcuatula senhousia (Benson, 1842)
+Argyresthia thuiella (Packard, 1871)
+Arion lusitanicus J.Mabille, 1868
+Aristolochia macrophylla Lam.
+Armoracia rusticana P.Gaertn., B.Mey. & Scherb.
+Artemisia abrotanum L.
+Artemisia annua L.
+Artemisia argyi H.LÃ©v. & Vaniot
+Artemisia dracunculus L.
+Artemisia lancea Vaniot
+Artemisia lavandulaefolia Nakai
+Asclepias syriaca L.
+Asperula orientalis Boiss. & Hohen.
+Aster laevis L.
+Aster lanceolatus Willd.
+Aster novae-angliae L.
+Aster novi-belgii L.
+Aster salignus L.
+Aster versicolor hort. ex Steud.
+Atriplex hortensis L.
+Atriplex micrantha Ledeb.
+Azolla filiculoides Lam.
+Balanus improvisus Darwin, 1854
+Balanus perforatus BruguiÃ¨re, 1789-1792
+Balsamita major Desf.
+Bassia sieversiana (Pall.) W.A.Weber
+Bellardia trixago All.
+Beroe ovata Bruguiere, 1789
+Bidens bipinnata L.
+Bidens connata Muhl. ex Willd.
+Bidens frondosa L.
+Bidens vulgata Greene
+Biscutella auriculata L.
+Blackfordia virginica Mayer, 1910
+Blitum virgatum L.
+Borago officinalis L.
+Brachyactis ciliata (Ledeb.) Ledeb.
+Branta canadensis (Linnaeus, 1758)
+Brassica juncea (L.) Czern.
+Brassica napus L.
+Brassica nigra (L.) W.D.J.Koch
+Brassica rapa L.
+Bromus madritensis L.
+Bromus willdenowii Kunth
+Broussonetia papyrifera Vent.
+Bruchidius siliquastri Delobel, 2007
+Bruchidius terrenus (Sharp, 1886)
+Bruchophagus sophorae Crosby & Crosby, 1929
+Bryonia cretica L.
+Buddleja davidii Franch.
+Cabomba caroliniana A.Gray
+Calendula officinalis L.
+Calibrachoa parviflora (Jussieu) D'Arcy
+Callinectes sapidus Rathbun, 1896
+Callistephus chinensis Nees
+Clausocalanus arcuicornis (Dana, 1849)
+Calocalanus pavo (Dana, 1852)
+Calocalanus pavoninus Farran, 1936
+Calocalanus plumulosus (Claus, 1863)
+Calocalanus tenuis Farran, 1926
+Camelina sativa Crantz
+Cameraria ohridella Deschka & Dimic, 1986
+Campsis radicans (L.) Seem.
+Cannabis sativa L.
+Capsella rubella Reut.
+Caragana arborescens Lam.
+Carassius auratus (Linnaeus, 1758)
+Carassius gibelio (Bloch, 1782)
+Cardiospermum halicacabum L.
+Carya ovata K.Koch
+Castanea sativa Mill.
+Catalpa bignonioides Walter
+Celosia argentea L.
+Celtis australis L.
+Celtis occidentalis L.
+Cenchrus longispinus (Hack. ex Kneucker) Fernald
+Cenchrus spinifex Cav.
+Centaurea cyanus L.
+Ceratopteris thalictroides (L.) Brongn.
+Cercis siliquastrum L.
+Chaerophyllum bulbosum L.
+Chenopodium ambrosioides Bert.
+Chenopodium botrys L.
+Chenopodium multifidum L.
+Chenopodium pumilio R.Br.
+Chenopodium schraderanum Schult.
+Chloris barbata Sw.
+Cicer arietinum L.
+Citrullus lanatus (Thunb.) Matsumura & Nakai
+Cladium mariscus (L.) Pohl
+Clarias gariepinus (Burchell, 1822)
+Clarias ngamensis Castelnau, 1861
+Clematis tangutica Korsh.
+Clematis viticella L.
+Colutea arborescens L.
+Commelina communis L.
+Consolida ajacis (L.) Schur
+Conyza bonariensis (L.) Cronq.
+Corambe obscura (A.E.Verrill, 1870)
+Corbicula fluminea (O.F.MÃ¼ller, 1774)
+Coregonus albula (Linnaeus, 1758)
+Coregonus lavaretus Valenciennes, 1848
+Coregonus peled (Gmelin, 1789)
+Coreopsis lanceolata L.
+Coreopsis tinctoria Nutt.
+Coriandrum sativum L.
+Corycaeus clausi Dahl F., 1894
+Corythucha arcuata (Say, 1832)
+Corythucha ciliata (Say, 1832)
+Cosmos bipinnatus Cav.
+Crassostrea virginica (Gmelin, 1791)
+Cryphonectria parasitica (Murrill) M.E.Barr
+Ctenocalanus vanus Giesbrecht, 1888
+Ctenopharyngodon idella (Valenciennes, 1844)
+Cucurbita pepo L.
+Cuscuta pentagona Engelm.
+Cuscuta suaveolens Ser.
+Cyclachaena xanthiifolia Fresen.
+Cyclamen purpurascens Mill.
+Cydalima perspectalis (Walker, 1859)
+Cydonia oblonga Mill.
+Cymbalaria muralis G.Gaertn., B.Mey. & Schreb.
+Cynara scolymus L.
+Cyperus esculentus L.
+Cyperus odoratus L.
+Cyprinus carpio haematopterus Martens, 1876
+Cyrtomium falcatum C.Presl
+Cytisus scoparius Link
+Dama dama (Linnaeus, 1758)
+Datura innoxia Mill.
+Datura stramonium L.
+Datura wrightii Regel
+Diadumene lineata (Verrill, 1869)
+Dianthus barbatus L.
+Diaspidiotus perniciosus (Comstock, 1881)
+Diplotaxis erucoides DC.
+Diplotaxis viminea DC.
+Dipolydora quadrilobata (Jacobi, 1883)
+Dipsacus strigosus Willd.
+Dracocephalum moldavica L.
+Dreissena bugensis (Andrusov, 1897)
+Duchesnea indica (Andr.) Focke
+Dysphania multifida (L.) Mosyakin & Clemants
+Dysphania pumilio (R.Br.) Mosyakin & Clemants
+Echinochloa colona (L.) Link
+Echinochloa oryzicola Vasinger
+Echinochloa oryzoides (Ard.) Fritsch
+Echinocystis lobata Torr. & A.Gray
+Eclipta alba Hassk.
+Ectopsocus meridionalis Ribaga, 1904
+Einhornia crustulenta (Pallas, 1766)
+Elaeagnus angustifolia L.
+Eleusine indica (L.) Gaertn.
+Elodea canadensis Michx.
+Elodea nuttallii St.John
+Elsholtzia ciliata (Thunb.) Hylander
+Elymus athericus (Link) KerguÃ©len
+Encarsia formosa Gahan, 1924
+Epilobium adenocaulon Hausskn.
+Eranthis hyemalis Salisb.
+Erechtites hieracifolia (L.) Raf.
+Erigeron annuus Pers.
+Erigeron bonariensis L.
+Erigeron canadensis L.
+Erigeron strigosus Muhl. ex Willd.
+Erigeron sumatrensis Retz.
+Eriocheir sinensis H.Milne Edwards, 1853
+Eriochloa villosa Kunth
+Eruca vesicaria (L.) Cav.
+Erucastrum gallicum O.E.Schulz
+Erucastrum nasturtiifolium O.E.Schulz
+Eschscholzia californica Cham.
+Euphorbia chamaesyce L.
+Euphorbia dentata Michx.
+Euphorbia humifusa Willd.
+Euphorbia maculata L.
+Euphorbia marginata Pursh
+Euphorbia nutans Lag.
+Euphorbia prostrata Ait.
+Euphorbia segetalis L.
+Eurypanopeus depressus Smith, 1869
+Euterpina acutifrons (Dana, 1847)
+Fallopia baldschuanica (Regel) Holub
+Ferrissia californica (Rowell, 1863)
+Ficopomatus enigmaticus (Fauvel, 1923)
+Ficus carica L.
+Fimbristylis bisumbellata Bubani
+Foeniculum vulgare Mill.
+Fragaria ananassa (Weston) Duchesne ex Rozier
+Fraxinus americana L.
+Fraxinus pennsylvanica Marshall
+Gaillardia pulchella Foug.
+Galeopsis segetum Neck.
+Galinsoga parviflora Cav.
+Galinsoga quadriradiata Ruiz & Pav.
+Gambusia holbrooki Girard, 1859
+Garveia franciscana (Torrey, 1902)
+Geranium sibiricum L.
+Ginkgo biloba L.
+Gleditsia triacanthos L.
+Glinus lotoides L.
+Glischrochilus quadrisignatus (Say, 1835)
+Glycyrrhiza glabra L.
+Grindelia squarrosa (Pursh) Dunal
+Harmonia axyridis (Pallas, 1773)
+Helianthus annuus L.
+Helianthus decapetalus L.
+Helianthus tuberosus L.
+Heliotropium curassavicum L.
+Helminthotheca echioides (L.) Holub
+Hemerocallis fulva L.
+Hemerocallis lilioasphodelus L.
+Hemigrapsus sanguineus (De Haan, 1835)
+Heracleum sosnowskyi Manden.
+Hibiscus moscheutos L.
+Hibiscus syriacus L.
+Hordeum distichon L.
+Hordeum jubatum L.
+Hordeum marinum Huds.
+Humulus scandens (Lour.) Merr.
+Hylotelephium spectabile (Boreau) H.Ohba
+Hyoscyamus albus L.
+Hypecoum imberbe Sibth. & Sm.
+Hyphantria cunea (Drury, 1773)
+Hypophthalmichthys molitrix (Valenciennes, 1844)
+Hypophthalmichthys nobilis (Richardson, 1845)
+Hypoponera punctatissima (Roger, 1859)
+Iberis amara L.
+Iberis umbellata L.
+Ictalurus punctatus (Rafinesque, 1818)
+Ictiobus bubalus (Rafinesque, 1818)
+Ictiobus cyprinellus (Valenciennes, 1844)
+Ictiobus niger (Rafinesque, 1819)
+Impatiens balsamina L.
+Impatiens glandulifera Royle
+Impatiens parviflora DC.
+Inula helenium L.
+Ipomoea hederacea Jacq.
+Ipomoea lacunosa L.
+Ipomoea purpurea (L.) Roth
+Ipomoea tricolor Cav.
+Iris germanica L.
+Iris pallida Lam.
+Japananus hyalinus Osborn, 1900
+Juglans cinerea L.
+Juglans nigra L.
+Juglans regia L.
+Juncus dudleyi Wiegand
+Juncus tenuis Willd.
+Juniperus virginiana L.
+Koelreuteria paniculata Laxm.
+Lactuca sativa L.
+Lasius neglectus van Loon, Boomsma & AndrÃ¡sfalvy, 1990
+Lathyrus sativus L.
+Lemna minuta Kunth
+Lepidium densiflorum Schrad.
+Lepidium didymum L.
+Lepidium virginicum L.
+Lepomis gibbosus (Linnaeus, 1758)
+Leptoglossus occidentalis Heidemann, 1910
+Lindernia dubia Pennell
+Linum usitatissimum L.
+Lobularia maritima (L.) Desv.
+Lolium multiflorum Lam.
+Lunaria annua L.
+Lupinus polyphyllus Lindl.
+Lychnis chalcedonica L.
+Lycium barbarum L.
+Macleaya cordata R.Br.
+Maclura pomifera (Raf.) C.K.Schneid.
+Macropsis eleagni Emeljanov, 1964
+Magallana gigas (Thunberg, 1793)
+Mahonia aquifolium (Pursh) Nutt.
+Malus domestica Borkh.
+Malva moschata L.
+Malva sylvestris var. mauritiana (L.) Boiss.
+Malva verticillata L.
+Matricaria discoidea DC.
+Matthiola longipetala DC.
+Mecynocera clausi Thompson I.C., 1888
+Medicago sativa L.
+Megabruchidius dorsalis (FÃ¥hraeus, 1839)
+Megabruchidius tonkineus (Pic, 1904)
+Megalobrama terminalis (Richardson, 1846)
+Megastigmus spermotrophus Wachtl, 1893
+Melissa officinalis L.
+Mentha gentilis Georgi
+Mentha piperita L.
+Mentha spicata L.
+Mentha villosa Huds.
+Mesocalanus tenuicornis (Dana, 1849)
+Mespilus germanica L.
+Metcalfa pruinosa (Say, 1830)
+Microsetella rosea (Dana, 1847)
+Mirabilis jalapa L.
+Mirabilis nyctaginea (Michx.) MacMill.
+Mnemiopsis leidyi A.Agassiz, 1865
+Molgula manhattensis (De Kay, 1843)
+Monema flavescens Walker, 1855
+Monochoria korsakowii Regel & Maack
+Monomorium pharaonis (Linnaeus, 1758)
+Morus alba L.
+Morus nigra L.
+Mya arenaria Linnaeus, 1758
+Mylopharyngodon piceus (Richardson, 1846)
+Myocastor coypus (Molina, 1782)
+Myriophyllum brasiliense Cambess.
+Myzocallis walshii (Monell, 1879)
+Narcissus poeticus L.
+Nelumbo nucifera Gaertn.
+Nematus tibialis Newman, 1837
+Neocalanus gracilis (Dana, 1852)
+Neoclytus acuminatus (Fabricius, 1775)
+Neovison vison (Schreber, 1777)
+Nicandra physalodes (L.) Gaertn.
+Nicotiana alata Link & Otto
+Nigella damascena L.
+Nigella sativa L.
+Nonea lutea DC.
+Nyctereutes procyonoides (Gray, 1834)
+Obolodiplosis robiniae (Haldeman, 1847)
+Ocimum basilicum L.
+Oenothera biennis L.
+Oenothera glazioviana Micheli
+Oenothera parviflora L.
+Oithona davisae Ferrari F.D. & Orsi, 1984
+Oncaea mediterranea (Claus, 1863)
+Oncorhynchus mykiss (Walbaum, 1792)
+Ondatra zibethicus (Linnaeus, 1766)
+Ophiostoma novo-ulmi Brasier
+Orconectes limosus (Rafinesque, 1817)
+Oryctolagus cuniculus (Linnaeus, 1758)
+Oxalis corniculata L.
+Oxalis dillenii Jacq.
+Oxalis fontana
+Ozognathus cornutus (LeConte, 1859)
+Pacifastacus leniusculus (Dana, 1852)
+Palaemon macrodactylus M.J.Rathbun, 1902
+Panicum capillare L.
+Panicum dichotomiflorum Michx.
+Panicum miliaceum L.
+Panicum schinzii Hack.
+Papaver somniferum L.
+Parabramis pekinensis (Basilewsky, 1855)
+Paracalanus aculeatus Giesbrecht, 1888
+Paracalanus nanus Sars G.O., 1925
+Parapholis incurva (L.) C.E.Hubb.
+Parectopa robiniella Clemens, 1863
+Parthenocissus quinquefolia (L.) Planch.
+Parthenocissus tricuspidata Planch.
+Parthenocissus vitacea (Knerr) Hitchc.
+Parthenolecanium fletcheri (Cockerell, 1893)
+Paspalum distichum L.
+Perccottus glenii Dybowski, 1877
+Perigona nigriceps (Dejean, 1831)
+Perilla frutescens Britton.
+Persicaria orientalis (L.) Spach
+Persicaria pensylvanica (L.) M.GÃ³mez
+Petunia atkinsiana D.Don ex Loudon
+Petunia integrifolia (Hook.) Schinz & Thell.
+Petunia parviflora Juss.
+Phacelia tanacetifolia Benth.
+Phalaris canariensis L.
+Phasianus colchicus Linnaeus, 1758
+Phemeranthus confertiflorus (Greene) Hershk.
+Philadelphus pubescens Loisel.
+Phyllonorycter issikii (Kumata, 1963)
+Phyllonorycter platani (Staudinger, 1870)
+Phyllonorycter robiniella (Clemens, 1859)
+Physella acuta (Draparnaud, 1805)
+Phytolacca acinosa Roxb.
+Phytolacca americana L.
+Phytophthora cinnamomi Rands
+Pineus strobi (Hartig, 1839)
+Pinus banksiana Lamb.
+Pinus ponderosa Douglas ex P.Lawson & C.Lawson
+Pinus strobus L.
+Plagiolepis obscuriscapa Santschi, 1923
+Planiliza haematocheila (Temminck & Schlegel, 1845)
+Plantago sempervirens Crantz
+Podisus maculiventris (Say, 1832)
+Poecilia reticulata Peters, 1859
+Polydora cornuta Bosc, 1802
+Polydora websteri Hartman, 1943
+Polyodon spathula (Walbaum, 1792)
+Ponometia candefacta (HÃ¼bner, 1831)
+Pontella mediterranea (Claus, 1863)
+Populus canadensis Moench
+Portulaca grandiflora Hook.
+Portulaca oleracea L.
+Portulaca pilosa L.
+Potamopyrgus antipodarum (Gray, 1843)
+Potentilla indica (Andrews) T.Wolf
+Procambarus fallax f. virginalis Martin, Dorn, Kawai, van der Heiden & Scholtz, 2010
+Prunus armeniaca L.
+Prunus cerasifera Ehrh.
+Prunus cerasus L.
+Prunus domestica L.
+Prunus dulcis (Mill.) D.A.Webb
+Prunus persica Stokes
+Prunus serotina Ehrh.
+Pseudaulacaspis pentagona (Targioni Tozzetti, 1886)
+Pseudofumaria lutea (L.) Borkh.
+Pseudorasbora parva (Temminck & Schlegel, 1846)
+Pseudosuccinea columella (Say, 1817)
+Pseudotsuga menziesii (Mirb.) Franco
+Psyllipsocus ramburii Selys-Longchamps, 1872
+Pulvinaria floccifera (Westwood, 1870)
+Quercus palustris MÃ¼nchh.
+Quercus rubra L.
+Rapana venosa (Valenciennes, 1846)
+Raphanus raphanistrum L.
+Raphanus sativus L.
+Rathkea octopunctata (M.Sars, 1835)
+Reseda alba L.
+Reseda odorata L.
+Reynoutria bohemica Chrtek & ChrtkovÃ¡
+Reynoutria japonica Houtt.
+Reynoutria sachalinensis Nakai
+Rhithropanopeus harrisii (Gould, 1841)
+Rhus typhina L.
+Rhus typhina L.
+Ribes aureum Pursh
+Ribes rubrum L.
+Ricinus communis L.
+Robinia pseudoacacia L.
+Robinia viscosa Vent.
+Rosa foetida Herrm.
+Rosa rugosa Thunb.
+Rosa xalba L.
+Rubus phoenicolasius Maxim.
+Rudbeckia hirta L.
+Rudbeckia laciniata L.
+Rudbeckia triloba L.
+Rumex longifolius DC.
+Ruta graveolens L.
+Saccharum ravennae (L.) L.
+Sagina maritima G.Don
+Sagittaria lancifolia L.
+Sagittaria latifolia Willd.
+Sagittaria subulata Buchenau
+Sagittaria trifolia L.
+Salicornia procumbens var. stricta (G.Mey.) J.Duvigneaud & J.Lambinon
+Salicornia ramosissima Woods
+Salix babylonica L.
+Salsola collina Pall.
+Salvelinus fontinalis (Mitchill, 1814)
+Salvia reflexa Hornem.
+Salvia sclarea L.
+Salvia splendens Sellow ex Nees
+Salvia verbenaca L.
+Satureja hortensis L.
+Saxifraga cymbalaria L.
+Sceliphron caementarium (Drury, 1773)
+Sceliphron curvatum (F.Smith, 1870)
+Scilla siberica Andrews
+Secale cereale L.
+Sedum sarmentosum Bunge
+Sedum spurium Bieb.
+Sempervivum tectorum L.
+Senecio inaequidens DC.
+Senna obtusifolia (L.) H.S.Irwin & Barneby
+Sesbania herbacea (Mill.) McVaugh
+Setaria faberi R.A.W.Herrm.
+Setaria italica P.Beauv.
+Setaria verticilliformis Dumort.
+Sibine stimulea Clemens, 1860
+Sicyos angulatus L.
+Sida spinosa L.
+Sigesbeckia orientalis L.
+Silene chalcedonica E.H.L.Krause
+Silene pendula L.
+Silene sibirica Pers.
+Silphium perfoliatum L.
+Silybum marianum (L.) Gaertn.
+Sinanodonta woodiana (I.Lea, 1834)
+Sinapis alba L.
+Sisymbrium austriacum Jacq.
+Sisymbrium irio L.
+Sisymbrium volgense M.Bieb. ex E.Fourn.
+Sisyrinchium montanum Greene
+Solanum angustifolium Mill.
+Solanum carolinense L.
+Solanum citrullifolium A.Braun
+Solanum lycopersicum L.
+Solanum rostratum Dun.
+Solanum triflorum Nutt.
+Solanum triflorum var. ponticum (ProdÃ¡n) Borza
+Solanum tuberosum L.
+Solidago canadensis L.
+Solidago gigantea Aiton
+Solidago graminifolia (L.) Salisb.
+Sophora japonica L.
+Sophora jaubertii Spach ex Jaub. & Spach
+Sorbaria sorbifolia (L.) A.Braun
+Sorghum bicolor (L.) Moench
+Sorghum halepense Pers.
+Sorghum sudanense (Piper) Stapf
+Spartium junceum L.
+Sphaeroma walkeri Stebbing, 1905
+Spiraea hypericifolia L.
+Spiraea japonica L.f.
+Stachys byzantina K.Koch
+Streblospio gynobranchiata Rice & Levin, 1998
+Styela clava Herdman, 1881
+Suaeda splendens Gren. & Godr.
+Symphoricarpos albus (L.) C.Koch
+Symphyotrichum ciliatum (Ledeb.) G.L.Nesom
+Symphyotrichum lanceolatum (Willd.) G.L.Nesom
+Symphyotrichum novae-angliae (L.) G.L.Nesom
+Tagetes erecta L.
+Tagetes patula L.
+Tanacetum parthenium Sch.Bip.
+Tapinoma melanocephalum (Fabricius, 1793)
+Taxodium distichum Rich.
+Teredo navalis Linnaeus, 1758
+Thladiantha dubia Bunge
+Thuja orientalis L.
+Tinocallis saltans (Nevsky, 1929)
+Trachemys scripta (Thunberg In Schoepff, 1792)
+Tradescantia fluminensis Vell.
+Tragopogon graminifolius DC.
+Tragopogon porrifolius L.
+Trichoferus campestris (Faldermann, 1835)
+Triconia dentipes (Giesbrecht, 1891)
+Triconia minuta
+Trifolium hybridum L.
+Trifolium incarnatum L.
+Trigonella caerulea Ser.
+Trioza neglecta Loginova, 1978
+Ulmus pumila L.
+Unaspis euonymi (Comstock, 1881)
+Urnatella gracilis Leidy, 1851
+Urocorycaeus furcifer (Claus, 1863)
+Urtica pilulifera L.
+Uscana johnstoni (Waterston, 1926)
+Vallisneria spiralis L.
+Verbesina encelioides (Cav.) A.Gray
+Veronica peregrina L.
+Veronica persica Poir.
+Verruca spengleri Darwin, 1854
+Viburnum rhytidophyllum Hemsl. ex Forb. & Hemsl.
+Vicia angustifolia Reichard
+Vicia articulata Hornem.
+Vicia ervilia Willd.
+Vicia lutea L.
+Vicia sativa L.
+Vinca major L.
+Viola wittrockiana Gams ex Nauenb. & Buttler
+Vitis rupestris Scheele
+Vitis vinifera L.
+Xanthium orientale L.
+Xanthium spinosum L.
+Xylosandrus germanus Blandford, 1894
+Yucca filamentosa L.
+Zea mays L.
+Zinnia elegans Jacq.
+Ziziphus jujuba Mill.
