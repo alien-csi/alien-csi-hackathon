@@ -41,7 +41,7 @@ ON MATCH SET n.cultivated = True`
 
 #### a13 The Organism has a(n) ... effect on native species, through predation, parasitism or herbivory:
 `MATCH (hornet:species {latinname: 'Vespa velutina'})-[r:eats|hasHost|parasiteOf|parasitoidOf|preysOn]->(prey:species {alien:false})
-RETURN hornet.latinname, type(r),prey.latinname, prey.kingdom, r.citation, r.doi`
+RETURN hornet.latinname, type(r),prey.latinname, prey.kingdom, r.reference, r.referenceDOI`
 
 #### a14. The Organism has a (...) effect on native species, through competition:
 
