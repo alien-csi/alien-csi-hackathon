@@ -7,18 +7,18 @@ tags:
   - Vespa velutina
   
 Authors:
-   - name: Simone Lioy
+  - name: Simone Lioy
     orcid: 0000-0003-2939-988X
     affiliation: 1
   - name: Jasmijn Hillaert
     orcid: 0000-0002-3761-8846
     affiliation: 2
   - name: Cristina Preda
-    orcid:
-    affilitation
+    orcid: 0000-0002-3513-7344
+    affilitation: 3
   - name: Quentin Groom
     orcid: 0000-0002-0596-5376
-    affiliation: 3 
+    affiliation: 4
   
   
 
@@ -27,8 +27,10 @@ affiliations:
    index: 1
  - name: Research Institute Nature and Forest, Herman Teirlinckgebouw, Havenlaan 88 bus 73, 1000 Brussel 
    index: 2
- - name: Meise Botanic Garden, Nieuwelaan 38, 1860 Meise, Belgium
+ - name: Ovidius University of Constanţa, Constanţa, Romania
    index: 3
+ - name: Meise Botanic Garden, Nieuwelaan 38, 1860 Meise, Belgium
+   index: 4
 
 
 date: 19 August 2022
