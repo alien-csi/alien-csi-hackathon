@@ -68,29 +68,25 @@ The [Global Biotic Interactions](https://www.globalbioticinteractions.org/) (Glo
 At the Alien-CSI Hackathon, information available in GloBI concerning the interaction of *V. velutina* with other species were updated, by gathering information from the literature and by adopting the template and the procedure described in the [GloBI’s GitHub repository](https://github.com/globalbioticinteractions/template-dataset).
 Interactions derived from the following references were added: [@ueno2015flower], [@macia2019exploitation], [@wei2019diversity], [@chen2020flip] and [@ries2021first]. By March 2022, GloBI included 2,990 biotic interactions on *V. velutina* (Table 1) derived from iNaturalist and from the literature (Table 2).
 
-Table 1. Biotic interactions on *V. velutina* available in GloBI by March 2022, and grouped by typology of interaction: predation, flower visitation or seed dispersal, parasitism, nesting habitat, or generic interactions.
+**Table 1**: Biotic interactions on *V. velutina* available in GloBI by March 2022, and grouped by typology of interaction: predation, flower visitation or seed dispersal, parasitism, nesting habitat, or generic interactions.
 
-| Typology of biotic interaction | Interaction category | Number of GloLOBI records |
-| -------- | -------- | :-------:- |
+| **Typology of biotic interaction** | **Interaction category** | **Number of GloBI records** |
+| --- | --- | :-: |
 | Predation | eatenBy | 2277 |
 | Predation | preyedUponBy | 137 |
 | Predation | eats | 1 |
 | Predation | preysOn | 4 |
-| -------- | -------- | -------- |
 | Flower visitation or seed dispersal | flowersVisitedBy | 172 |
 | Flower visitation or seed dispersal | visitedBy | 9 |
 | Flower visitation or seed dispersal | mutualistOf | 1 |
-| -------- | -------- | -------- |
 | Parasitism | hasVector | 2 |
 | Parasitism | hasHost | 20 |
 | Parasitism | endoparasiteOf | 1 |
-| -------- | -------- | -------- |
 | Nesting habitat | hasHabitat | 22 |
-| -------- | -------- | -------- |
 | Generic interactions | interactsWith | 344|
 
 
-Table 2. Sources from which *V. velutina* interactions were derived.
+**Table 2**: Sources from which *V. velutina* interactions were derived.
 
 | Source | Reference | Number of GloBI records |
 | -------- | -------- | -------- |
