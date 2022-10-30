@@ -57,9 +57,9 @@ Recording these interactions may allow us to deepen our understanding of the imp
 
 ## Aims
 
-* To gather interaction data for Vespa velutina and the habits invaded by this species
-* To visualize the interactions we gather to make them more useful for risk assessment
-* To use the data we have collected to assess the risks of invasion
+* To gather interaction data for *Vespa velutina* and the habits invaded by this species.
+* To visualize the interactions we gather to make them more useful for risk assessment.
+* To use the data we have collected to assess the risks of invasion.
 
 
 # Updating interactions of *Vespa velutina* on the Global Biotic Interactions database
