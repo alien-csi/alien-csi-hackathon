@@ -98,7 +98,7 @@ Interactions derived from the following references were added: [@ueno2015flower]
 # Analysis of *Vespa velutina* predation spectrum
 
 Data derived from GloBI were elaborated for studying the families and species mostly preyed on by *V. velutina*. For each record, the full taxonomic information were retrieved with the `taxise` package of R [@chamberlain2013taxize], by comparing the taxon name of the species that were interacting with *V. velutina* with taxonomic information available on the NCBI (National Center for Biotechnology Information) database.
-Afterwards, data were filtered for selecting only insects with an interaction category 'eatenBy' and 'preyedUponBy' *V. velutina* (Table 3), and grouped for visualizing, through a chord diagram, the families mostly preyed by *V. velutina* (Fig. 1).
+Afterwards, data were filtered for selecting only insects with an interaction category `eatenBy` and `preyedUponBy` *V. velutina* (Table 3), and grouped for visualizing, through a chord diagram, the families mostly preyed by *V. velutina* (Fig. 1).
 
 **Table 3**: Order of insects preyed by *V. velutina* and number of interactions recorded on GloBI.
 
