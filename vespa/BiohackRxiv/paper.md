@@ -88,8 +88,8 @@ Interactions derived from the following references were added: [@ueno2015flower]
 
 **Table 2**: Sources from which *V. velutina* interactions were derived.
 
-| Source | Reference | Number of GloBI records |
-| -------- | -------- | -------- |
+| **Source** | **Reference** | **Number of GloBI records** |
+| --- | --- | :-: |
 | Citizen Science | http://iNaturalist.org | 536 |
 | Literature review (26 papers) | [@Preda&Groom2021] | 2408 |
 | Literature review (5 papers) | [@Lioy&Preda&Groom2022] | 46 |
