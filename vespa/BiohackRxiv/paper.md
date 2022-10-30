@@ -98,12 +98,12 @@ Interactions derived from the following references were added: [@ueno2015flower]
 # Analysis of *Vespa velutina* predation spectrum
 
 Data derived from GloBI were elaborated for studying the families and species mostly preyed on by *V. velutina*. For each record, the full taxonomic information were retrieved with the `taxise` package of R [@chamberlain2013taxize], by comparing the taxon name of the species that were interacting with *V. velutina* with taxonomic information available on the NCBI (National Center for Biotechnology Information) database.
-Afterwards, data were filtered for selecting only insects with an interaction category “eatenBy” “preyedUponBy” *V. velutina* (Table 3), and grouped for visualizing, through a chord diagram, the families mostly preyed by *V. velutina* (Fig. 1).
+Afterwards, data were filtered for selecting only insects with an interaction category 'eatenBy' and 'preyedUponBy' *V. velutina* (Table 3), and grouped for visualizing, through a chord diagram, the families mostly preyed by *V. velutina* (Fig. 1).
 
-Table 3. Order of insects preyed by *V. velutina* and number of interactions recorded on GloBI.
+**Table 3**: Order of insects preyed by *V. velutina* and number of interactions recorded on GloBI.
 
 | Insect's order | n. records | Insect's order | n. records | Insect's order | n. records |
-| -------- | -------- | -------- |
+| --- | :-: | --- | :-: | --- | :-: | 
 | Hymenoptera | 1346 | Mecoptera | 14 | Neuroptera | 2 |
 | Diptera | 767 | Orthoptera | 13 | Blattodea | 1 |
 | Hemiptera | 31 | Trichoptera | 8 | Odonata | 1 |
@@ -111,7 +111,7 @@ Table 3. Order of insects preyed by *V. velutina* and number of interactions rec
 | Coleoptera | 14 | Dermaptera | 2 | NA | 4 |
 
 
-Figure 1. Chord diagram for visualizing the orders and families of insects mostly preyed on by *V. velutina*:  Hymenoptera (blue), Diptera (green), other taxa (pink).
+**Figure 1**: Chord diagram for visualizing the orders and families of insects mostly preyed on by *V. velutina*:  Hymenoptera (blue), Diptera (green), other taxa (pink).
 
 ![chord_diagram_predation](https://user-images.githubusercontent.com/98174736/163976425-c463b503-9da7-4411-858d-08c29bdbf039.png)
 
